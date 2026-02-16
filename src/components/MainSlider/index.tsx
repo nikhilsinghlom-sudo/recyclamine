@@ -61,7 +61,7 @@ const MainSlider = () => {
                     <div className="video-wrapper">
                         <video
                             src={`${process.env.PUBLIC_URL}/video/Recyclamine AV 04 Mar 24 Long Ver Without VO.mp4`}
-                            poster={`${process.env.PUBLIC_URL}/images/first.png`}
+                            poster={`${process.env.PUBLIC_URL}/images/First.png`}
 
                             playsInline
                             preload="metadata"

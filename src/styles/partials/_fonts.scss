@@ -1,0 +1,103 @@
+//Take *.ttf, *.eot, *.woff, *.woff2 and *.svg as font types for best results
+
+
+
+// GOTHAM
+
+@font-face {
+    font-family: "gotham-light";
+    src: url("/fonts/gotham/Gotham-Light.eot?") format("eot"), 
+    url("/fonts/gotham/Gotham-Light.svg#gotham-light") format("svg"), 
+    url("/fonts/gotham/Gotham-Light.ttf") format("truetype"), 
+    url("/fonts/gotham/Gotham-Light.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "gotham-book";
+    src: url("/fonts/gotham/Gotham-Book.eot?") format("eot"),
+        url("/fonts/gotham/Gotham-Book.svg#gotham-book") format("svg"),
+        url("/fonts/gotham/Gotham-Book.ttf") format("truetype"),
+        url("/fonts/gotham/Gotham-Book.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "gotham-medium";
+    src: url("/fonts/gotham/Gotham-Medium.eot?") format("eot"),
+        url("/fonts/gotham/Gotham-Medium.svg#gotham-medium") format("svg"),
+        url("/fonts/gotham/Gotham-Medium.ttf") format("truetype"),
+        url("/fonts/gotham/Gotham-Medium.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "gotham-bold";
+    src: url("/fonts/gotham/Gotham-Bold.eot?") format("eot"),
+        url("/fonts/gotham/Gotham-Bold.ttf") format("truetype"),
+        url("/fonts/gotham/Gotham-Bold.woff") format("woff");
+}
+
+
+// LEMON MILK
+
+
+@font-face {
+    font-family: 'lemon-milk-light';
+    src: url('/fonts/LemonMilk/LEMONMILK-Light.eot');
+    src: url('/fonts/LemonMilk/LEMONMILK-Light.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/LemonMilk/LEMONMILK-Light.woff2') format('woff2'),
+        url('/fonts/LemonMilk/LEMONMILK-Light.woff') format('woff'),
+        url('/fonts/LemonMilk/LEMONMILK-Light.ttf') format('truetype'),
+        url('/fonts/LemonMilk/LEMONMILK-Light.svg#LEMONMILK-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'lemon-milk-regular';
+    src: url('/fonts/LemonMilk/LEMONMILK-Regular.eot');
+    src: url('/fonts/LemonMilk/LEMONMILK-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/LemonMilk/LEMONMILK-Regular.woff2') format('woff2'),
+        url('/fonts/LemonMilk/LEMONMILK-Regular.woff') format('woff'),
+        url('/fonts/LemonMilk/LEMONMILK-Regular.ttf') format('truetype'),
+        url('/fonts/LemonMilk/LEMONMILK-Regular.svg#LEMONMILK-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'lemon-milk-medium';
+    src: url('/fonts/LemonMilk/LEMONMILK-Medium.eot');
+    src: url('/fonts/LemonMilk/LEMONMILK-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/LemonMilk/LEMONMILK-Medium.woff2') format('woff2'),
+        url('/fonts/LemonMilk/LEMONMILK-Medium.woff') format('woff'),
+        url('/fonts/LemonMilk/LEMONMILK-Medium.ttf') format('truetype'),
+        url('/fonts/LemonMilk/LEMONMILK-Medium.svg#LEMONMILK-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'lemon-milk-bold';
+    src: url('/fonts/LemonMilk/LEMONMILK-Bold.eot');
+    src: url('/fonts/LemonMilk/LEMONMILK-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/LemonMilk/LEMONMILK-Bold.woff2') format('woff2'),
+        url('/fonts/LemonMilk/LEMONMILK-Bold.woff') format('woff'),
+        url('/fonts/LemonMilk/LEMONMILK-Bold.ttf') format('truetype'),
+        url('/fonts/LemonMilk/LEMONMILK-Bold.svg#LEMONMILK-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+
+
+

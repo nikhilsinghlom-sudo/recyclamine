@@ -1,0 +1,192 @@
+// =============================================================================
+// String Replace
+// =============================================================================
+
+@function str-replace($string, $search, $replace: "") {
+	$index: str-index($string, $search);
+	@if $index {
+		@return str-slice($string, 1, $index - 1) + $replace + str-replace(str-slice($string, $index + str-length($search)), $search, $replace);
+	}
+	@return $string;
+}
+
+// =============================================================================
+// Font Face
+// =============================================================================
+
+@mixin font-face($name, $path, $weight: null, $style: null, $exts: ttf woff woff2 otf) {
+	$src: null;
+
+	$extmods: (
+		eot: "?",
+		svg: "#" + str-replace($name, " ", "_")
+	);
+
+	$formats: (
+		otf: "opentype",
+		ttf: "truetype"
+	);
+
+	@each $ext in $exts {
+		$extmod: if(map-has-key($extmods, $ext), $ext + map-get($extmods, $ext), $ext);
+		$format: if(map-has-key($formats, $ext), map-get($formats, $ext), $ext);
+		$src: append($src, url('../' + quote($path + "." + $extmod)) format(quote($format)), comma);
+	}
+
+	@font-face {
+		font-family: quote($name);
+		font-style: $style;
+		font-weight: $weight;
+		src: $src;
+	}
+}
+
+// =============================================================================
+// CSS HACKS
+// =============================================================================
+
+
+///*--- Only Firefox  ---*/
+@mixin only_firefox($selector, $map){
+	@-moz-document url-prefix() {
+		#{$selector} {
+			@each $property, $value in ($map) {
+				#{$property}: $value;
+			}
+		}
+	}
+}
+
+
+///*--- Only Chrome 28+, Opera >= 14 ---*/
+@mixin only_chrome($selector, $map){
+	@media all and (-webkit-min-device-pixel-ratio:0) and (min-resolution: .001dpcm) {
+		#{$selector} {
+			@each $property, $value in ($map) {
+				#{$property}: $value;
+			}
+		}
+	}
+}
+
+///*--- Only Safari >= 6.1 ---*/
+@function sf_func1($selector, $property) {
+	@return '@media screen and(min-color-index:0)and(-webkit-min-device-pixel-ratio:0){@media{'+& $selector+'{'+$property;
+}
+@function sf_func2($value) {
+	@return $value+'}}}';
+}
+// @mixin only_safari($selector, $map){
+// 	@at-root{
+// 		@each $property, $value in ($map) {
+// 			#{sf_func1($selector, $property)}: #{sf_func2($value)};
+// 		}
+// 	}
+// }
+
+//@include only_chrome( '.my_element', (color: red));
+
+
+// =============================================================================
+// TRANSPARENT BACKGROUND
+// =============================================================================
+
+// @mixin bgtrans($color, $op){
+// 	background: $color; /* The Fallback */
+// 	$red: red($color);
+// 	$green: green($color);
+// 	$blue: blue($color);
+// 	background: rgba($red, $green, $blue, $op);
+// }
+
+// @mixin maxrowcust($size){
+// 	.row{
+// 		max-width: $size+px;
+// 	}
+// }
+
+// @mixin padrow0{
+// 	> .row {
+// 		[class*="col"]{
+// 			padding: 0;
+// 		}
+// 	}	
+// }
+
+
+
+// =============================================================================
+// MAP BREAKPOINTS
+// =============================================================================
+ 
+// Respond-To Mixin
+@mixin respond-to($breakpoint) {
+	$value : $breakpoint;
+    @if map-has-key($breakpoints, $breakpoint) {
+        $value: map-get($breakpoints, $breakpoint);
+    }
+	@media screen and (max-width: $value) {
+		@content;
+	}
+//    @warn "Unknown `#{$breakpoint}` in $breakpoints";
+}
+
+
+
+// =============================================================================
+// GOTHAM FONTS
+// =============================================================================
+
+
+// Mixin for applying Gotham font styles
+
+@mixin font-gotham($weight) {
+	@if $weight=='light' {
+		font-family: "gotham-light", sans-serif;
+	}
+
+	@else if $weight=='book' {
+		font-family: "gotham-book", sans-serif;
+	}
+
+	@else if $weight=='medium' {
+		font-family: "gotham-medium", sans-serif;
+	}
+
+	@else if $weight=='bold' {
+		font-family: "gotham-bold", sans-serif;
+	}
+
+	@else {
+		font-family: sans-serif; // Fallback
+	}
+}
+
+
+// Mixin for applying Lemon Milk font styles
+
+@mixin font-lemonmilk($weight) {
+	@if $weight=='light' {
+		font-family: "lemon-milk-light",
+		sans-serif;
+	}
+
+	@else if $weight=='regular' {
+		font-family: "lemon-milk-regular",
+		sans-serif;
+	}
+
+	@else if $weight=='medium' {
+		font-family: "lemon-milk-medium",
+		sans-serif;
+	}
+
+	@else if $weight=='bold' {
+		font-family: "lemon-milk-bold",
+		sans-serif;
+	}
+
+	@else {
+		font-family: sans-serif; // Fallback
+	}
+}

@@ -1,0 +1,1612 @@
+[
+    {
+        "id": "skis-and-snowboards",
+        "title": "Skis & Snowboards",
+        "thumbImage": "Skis/Skis-Cover.webp",
+        "bannerImage": "Skis/Skis-banner.webp",
+        "shortDesc": "For skis & snowboards that demand high durability and flexibility. Recyclamine's recyclable epoxy provides enhanced performance and sustainability. We're helping the industry reduce environmental impact while maintaining the resilience skiers & snowboarders rely on.",
+        "details": "",
+        "sections": [
+            {
+                "title": "Skis & Snowboards",
+                "subTitle": "The Ski & Snowboard industry faces increasing demand for high-performance, durable materials.",
+                "content": "For this, conventional Ski & Snowboard manufacturing relies on non-recyclable composites, resulting in significant end-of-life waste. As a result, the environmental footprint of manufacturing and disposal is a growing concern. Recyclamine allows skis to be manufactured with full recyclability built-in; without compromising on performance.",
+                "contentImg": ""
+            },
+            {
+                "title": "Why this is critical",
+                "subTitle": "Investing in recyclable epoxy allows ski manufacturers to:",
+                "content": [
+                    "Enhance durability & performance.",
+                    "Reduce landfill impact.",
+                    "Meet industry sustainability goals.",
+                    "Offer consumers products with sustainability built-in."
+                ],
+                "contentImg": ""
+            },
+            {
+                "title": "The Power of Recyclamine",
+                "subTitle": "Recyclamine provides advanced recyclable epoxy solutions tailored for skis, delivering strength and flexibility while supporting a closed-loop lifecycle.",
+                "content": "Our formulations are designed to maintain the performance standards skiers expect, without compromising on sustainability.",
+                "contentImg": ""
+            }
+        ],
+        "clients": [
+            "Skis/clients/brand1.svg",
+            "Skis/clients/brand2.svg",
+            "Skis/clients/brand3.svg",
+            "Skis/clients/brand4.svg"
+        ],
+        "letsconnect": {
+            "title": "Ready to transform your products with recyclable epoxy? Connect with us to explore sustainable solutions tailored to your industry.",
+            "content": "",
+            "link": "/contact-us"
+        },
+        "casestudy": [
+            {
+                "title": "Case Study",
+                "description": "Lorem ipsum dolor sit amet.",
+                "image": "Skis/timeline/placeholder.jpg"
+            },
+            {
+                "title": "Case Study",
+                "description": "Lorem ipsum dolor sit amet.",
+                "image": "Skis/timeline/placeholder.jpg"
+            }
+        ],
+        "knowmore": {
+            "title": "",
+            "content": "",
+            "link": ""
+        },
+        "faq": [
+            {
+                "title": "How does recyclable epoxy impact the performance of my equipment?",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+            },
+            {
+                "title": "Will the use of recyclable epoxy affect the appearance of my equipment?",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+            },
+            {
+                "title": "Does recyclable epoxy make my equipment heavier?",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+            },
+            {
+                "title": "Is recyclable epoxy as durable as traditional epoxy for extreme conditions?",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+            },
+            {
+                "title": "What is the lifespan of equipment made with recyclable epoxy?",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+            }
+        ],
+        "tableData": {
+            "skis": {
+                "title": "Skis Product Detail",
+                "rows": [
+                    {
+                        "Recyclamine System": "Recyclamine 001RG - 004H",
+                        "Bio Content (%)": "29",
+                        "Infusion": "√",
+                        "Wet-layup": "√",
+                        "Light RTM": "√",
+                        "Bonding": "",
+                        "Mix Ratio (by weight)": "100:24",
+                        "Mix Viscosity mPa·s": "<300",
+                        "Pot Life (minutes)": "35 - 45 (100 gms)",
+                        "Glass transition temperature (Tg) (oC)": ">80",
+                        "Features": "Low initial mix viscosity, short demolding time, ambient cure bio-based resin system ideal for Infusion, light RTM and wet lay-up processes."
+                    },
+                    {
+                        "Recyclamine System": "Recyclamine 001R - 001H",
+                        "Bio Content (%)": "",
+                        "Infusion": "√",
+                        "Wet-layup": "√",
+                        "Light RTM": "√",
+                        "Bonding": "",
+                        "Mix Ratio (by weight)": "100 : 26",
+                        "Mix Viscosity mPa·s": "<300",
+                        "Pot Life (minutes)": "80 - 120 (100 gms)",
+                        "Glass transition temperature (Tg) (oC)": ">75",
+                        "Features": "Low initial mix viscosity, moderately reactivity system for Infusion, wet lay-up, Light RTM, etc."
+                    },
+                    {
+                        "Recyclamine System": "Recyclamine 002R - 003H",
+                        "Bio Content (%)": "",
+                        "Infusion": "√",
+                        "Wet-layup": "√",
+                        "Light RTM": "√",
+                        "Bonding": "",
+                        "Mix Ratio (by weight)": "100 : 30",
+                        "Mix Viscosity mPa·s": "1500 - 2300",
+                        "Pot Life (minutes)": "25 - 40 (100 gms)",
+                        "Glass transition temperature (Tg) (oC)": "75 - 90",
+                        "Features": "Ambient curing system designed for Compression Molding Process."
+                    },
+                    {
+                        "Recyclamine System": "Recyclamine 003R - 005H",
+                        "Bio Content (%)": "",
+                        "Infusion": "√",
+                        "Wet-layup": "√",
+                        "Light RTM": "√",
+                        "Bonding": "",
+                        "Mix Ratio (by weight)": "100 : 26",
+                        "Mix Viscosity mPa·s": "200 - 400",
+                        "Pot Life (minutes)": ">240 (100 gms)",
+                        "Glass transition temperature (Tg) (oC)": "75 - 90",
+                        "Features": "Slow reacting system, with longer pot life for Infusion, RTM, Lay-up, etc."
+                    },
+                    {
+                        "Recyclamine System": "Recyclamine 008R - 026H",
+                        "Bio Content (%)": "",
+                        "Infusion": "√",
+                        "Wet-layup": "√",
+                        "Light RTM": "√",
+                        "Bonding": "",
+                        "Mix Ratio (by weight)": "100 : 39",
+                        "Mix Viscosity mPa·s": "650 - 850",
+                        "Pot Life (minutes)": "25 - 35 (100 gms)",
+                        "Glass transition temperature (Tg) (oC)": "55 - 65",
+                        "Features": "Low initial mix viscosity, enables fast & complete impregnation of reinforcing fibers such as glass, carbon and poly-aramid."
+                    },
+                    {
+                        "Recyclamine System": "Recyclamine 001RG - 013H3",
+                        "Bio Content (%)": "29",
+                        "Infusion": "√",
+                        "Wet-layup": "√",
+                        "Light RTM": "√",
+                        "Bonding": "",
+                        "Mix Ratio (by weight)": "100 : 28",
+                        "Mix Viscosity mPa·s": "250 - 350",
+                        "Pot Life (minutes)": "400 - 600 (100 gms @30oC)",
+                        "Glass transition temperature (Tg) (oC)": "100 - 110",
+                        "Features": "Bio-based resin system with ultra slow reactivity and low initial mix viscosity that enables fast & complete impregnation of reinforcing fibers."
+                    },
+                    {
+                        "Recyclamine System": "Recyclamine 005RG - 012H",
+                        "Bio Content (%)": "29",
+                        "Infusion": "√",
+                        "Wet-layup": "√",
+                        "Light RTM": "",
+                        "Bonding": "",
+                        "Mix Ratio (by weight)": "100 : 40",
+                        "Mix Viscosity mPa·s": "2000 - 3000",
+                        "Pot Life (minutes)": ">900 (100 gms)",
+                        "Glass transition temperature (Tg) (oC)": "95 - 105",
+                        "Features": "Designed for Prepreg & SMC; also suitable for other processes due to its processing properties and semi-latent characteristics."
+                    },
+                    {
+                        "Recyclamine System": "Recyclamine 018R - 027H",
+                        "Bio Content (%)": "",
+                        "Infusion": "√",
+                        "Wet-layup": "√",
+                        "Light RTM": "√",
+                        "Bonding": "",
+                        "Mix Ratio (by weight)": "100 : 30",
+                        "Mix Viscosity mPa·s": "2200 - 2600",
+                        "Pot Life (minutes)": "45 - 55 (100 gms)",
+                        "Glass transition temperature (Tg) (oC)": "80 - 90",
+                        "Features": "Ambient curing system designed for Compression Molding Process."
+                    },
+                    {
+                        "Recyclamine System": "Recyclamine 021RG - 030H",
+                        "Bio Content (%)": "27",
+                        "Infusion": "",
+                        "Wet-layup": "√",
+                        "Light RTM": "",
+                        "Bonding": "√",
+                        "Mix Ratio (by weight)": "100 : 40",
+                        "Mix Viscosity mPa·s": "3500 - 4000",
+                        "Pot Life (minutes)": "",
+                        "Glass transition temperature (Tg) (oC)": "80",
+                        "Features": "Moderate adhesion to various substrates"
+                    },
+                    {
+                        "Recyclamine System": "Recyclamine 022RG - 030H",
+                        "Bio Content (%)": "22",
+                        "Infusion": "",
+                        "Wet-layup": "√",
+                        "Light RTM": "",
+                        "Bonding": "√",
+                        "Mix Ratio (by weight)": "100 : 38",
+                        "Mix Viscosity mPa·s": "4800",
+                        "Pot Life (minutes)": "",
+                        "Glass transition temperature (Tg) (oC)": "75 - 80",
+                        "Features": "Good adhesion to various substrates"
+                    },
+                    {
+                        "Recyclamine System": "Recyclamine 023R - 031H",
+                        "Bio Content (%)": "",
+                        "Infusion": "√",
+                        "Wet-layup": "√",
+                        "Light RTM": "√",
+                        "Bonding": "",
+                        "Mix Ratio (by weight)": "100 : 39",
+                        "Mix Viscosity mPa·s": "800 - 1200",
+                        "Pot Life (minutes)": "15 - 30 (100 gms)",
+                        "Glass transition temperature (Tg) (oC)": "60 - 70",
+                        "Features": "Low initial mix viscosity, enables fast & complete impregnation of reinforcing fibers such as glass, carbon and poly-aramid."
+                    }
+                ]
+            },
+            "snowboards": {
+                "title": "Snowboard Product Detail",
+                "rows": [
+                    {
+                        "Recyclamine System": "Recyclamine 001RG - 004H",
+                        "Bio Content (%)": "29",
+                        "Infusion": "√",
+                        "Wet-layup": "√",
+                        "Light RTM": "√",
+                        "Bonding": "√",
+                        "Mix Ratio (by weight)": "100 : 24",
+                        "Mix Viscosity mPa·s": "<300",
+                        "Pot Life (minutes)": "35 - 45 (100 gms)",
+                        "Glass transition temperature (Tg) (oC)": ">80",
+                        "Features": "Low initial mix viscosity, short demolding time, ambient cure bio-based resin system ideal for Infusion, light RTM and wet lay-up processes."
+                    },
+                    {
+                        "Recyclamine System": "Recyclamine 001R - 001H",
+                        "Bio Content (%)": "",
+                        "Infusion": "√",
+                        "Wet-layup": "√",
+                        "Light RTM": "√",
+                        "Bonding": "",
+                        "Mix Ratio (by weight)": "100 : 26",
+                        "Mix Viscosity mPa·s": "<300",
+                        "Pot Life (minutes)": "80 - 120 (100 gms)",
+                        "Glass transition temperature (Tg) (oC)": ">75",
+                        "Features": "Low initial mix viscosity, moderately reactivity system for Infusion, wet lay-up, Light RTM, etc."
+                    },
+                    {
+                        "Recyclamine System": "Recyclamine 002R - 003H",
+                        "Bio Content (%)": "",
+                        "Infusion": "√",
+                        "Wet-layup": "√",
+                        "Light RTM": "√",
+                        "Bonding": "√",
+                        "Mix Ratio (by weight)": "100 : 30",
+                        "Mix Viscosity mPa·s": "1500 - 2300",
+                        "Pot Life (minutes)": "25 - 40 (100 gms)",
+                        "Glass transition temperature (Tg) (oC)": "75 - 90",
+                        "Features": "Ambient curing system designed for Compression Molding Process."
+                    },
+                    {
+                        "Recyclamine System": "Recyclamine 003R - 005H",
+                        "Bio Content (%)": "",
+                        "Infusion": "√",
+                        "Wet-layup": "√",
+                        "Light RTM": "√",
+                        "Bonding": "",
+                        "Mix Ratio (by weight)": "100 : 26",
+                        "Mix Viscosity mPa·s": "200 - 400",
+                        "Pot Life (minutes)": ">240 (100 gms)",
+                        "Glass transition temperature (Tg) (oC)": "75 - 90",
+                        "Features": "Slow reacting system, with longer pot life for Infusion, RTM, Lay-up, etc."
+                    },
+                    {
+                        "Recyclamine System": "Recyclamine 008R - 026H",
+                        "Bio Content (%)": "",
+                        "Infusion": "√",
+                        "Wet-layup": "√",
+                        "Light RTM": "√",
+                        "Bonding": "√",
+                        "Mix Ratio (by weight)": "100 : 39",
+                        "Mix Viscosity mPa·s": "650 - 850",
+                        "Pot Life (minutes)": "25 - 35 (100 gms)",
+                        "Glass transition temperature (Tg) (oC)": "55 - 65",
+                        "Features": "Low initial mix viscosity, enables fast & complete impregnation of reinforcing fibers such as glass, carbon and poly-aramid."
+                    },
+                    {
+                        "Recyclamine System": "Recyclamine 001RG - 013H3",
+                        "Bio Content (%)": "29",
+                        "Infusion": "√",
+                        "Wet-layup": "√",
+                        "Light RTM": "√",
+                        "Bonding": "",
+                        "Mix Ratio (by weight)": "100 : 28",
+                        "Mix Viscosity mPa·s": "250 - 350",
+                        "Pot Life (minutes)": "400 - 600 (100 gms @30°C)",
+                        "Glass transition temperature (Tg) (oC)": "100 - 110",
+                        "Features": "Bio-based resin system with ultra slow reactivity and low initial mix viscosity that enables fast & complete impregnation of reinforcing fibers."
+                    },
+                    {
+                        "Recyclamine System": "Recyclamine 005RG - 012H",
+                        "Bio Content (%)": "29",
+                        "Infusion": "√",
+                        "Wet-layup": "√",
+                        "Light RTM": "",
+                        "Bonding": "",
+                        "Mix Ratio (by weight)": "100 : 40",
+                        "Mix Viscosity mPa·s": "2000 - 3000",
+                        "Pot Life (minutes)": ">900 (100 gms)",
+                        "Glass transition temperature (Tg) (oC)": "95 - 105",
+                        "Features": "Designed for Prepreg & SMC; also suitable for other processes due to its processing properties and semi-latent characteristics."
+                    },
+                    {
+                        "Recyclamine System": "Recyclamine 018R - 027H",
+                        "Bio Content (%)": "",
+                        "Infusion": "√",
+                        "Wet-layup": "√",
+                        "Light RTM": "√",
+                        "Bonding": "√",
+                        "Mix Ratio (by weight)": "100 : 30",
+                        "Mix Viscosity mPa·s": "2200 - 2600",
+                        "Pot Life (minutes)": "45 - 55 (100 gms)",
+                        "Glass transition temperature (Tg) (oC)": "80 - 90",
+                        "Features": "Ambient curing system designed for Compression Molding Process."
+                    },
+                    {
+                        "Recyclamine System": "Recyclamine 023R - 031H",
+                        "Bio Content (%)": "",
+                        "Infusion": "√",
+                        "Wet-layup": "√",
+                        "Light RTM": "√",
+                        "Bonding": "√",
+                        "Mix Ratio (by weight)": "100 : 39",
+                        "Mix Viscosity mPa·s": "800 - 1200",
+                        "Pot Life (minutes)": "15 - 30 (100 gms)",
+                        "Glass transition temperature (Tg) (oC)": "60 - 70",
+                        "Features": "Low initial mix viscosity, enables fast & complete impregnation of reinforcing fibers such as glass, carbon and poly-aramid."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "surfboards",
+        "title": "Surfboards",
+        "thumbImage": "Surfboards/Surfboards-cover.jpg",
+        "bannerImage": "Surfboards/Surfboards-banner.jpg",
+        "shortDesc": "Our Recyclamine epoxy delivers outstanding structural performance, even in wet conditions, while maintaining excellent strength and flexibility. It integrates seamlessly into existing manufacturing processes, allowing surfboard makers to create high-quality boards without altering production methods. More than just performance-driven, it also supports sustainability by enabling environmentally responsible recycling, setting a new standard for eco-conscious surfboard production.",
+        "details": "",
+        "sections": [
+            {
+                "title": "Surfboards",
+                "subTitle": "Surfers know the oceans need protection—but most surfboards still end up in landfills. ",
+                "content": "The surfboard industry demands materials that deliver strength, stiffness, and durability without adding weight, but the non-recyclable nature of traditional epoxy resins makes safe disposal difficult.",
+                "contentImg": ""
+            },
+            {
+                "title": "Why this is critical",
+                "subTitle": "By adopting recyclable epoxy, you can:",
+                "content": [
+                    "Extend the useful life cycle of valuable materials.",
+                    "Reduce landfill waste and environmental harm.",
+                    "Meet the demands of eco-conscious consumers."
+                ],
+                "contentImg": ""
+            },
+            {
+                "title": "The Power of Recyclamine",
+                "subTitle": "Recyclamine creates epoxy systems specifically for surfboards and snowboards, combining flexibility, impact resistance, and recyclability.",
+                "content": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.,",
+                    "Aliquam aliquet sapien ac nibh consectetur molestie quis non odio.",
+                    "Maecenas pellentesque lorem eu nisl feugiat, et eleifend urna porta."
+                ],
+                "contentImg": ""
+            }
+        ],
+        "clients": [
+            "Skis/clients/brand1.svg",
+            "Skis/clients/brand2.svg",
+            "Skis/clients/brand3.svg",
+            "Skis/clients/brand4.svg"
+        ],
+        "letsconnect": {
+            "title": "Ready to transform your products with recyclable epoxy? Connect with us to explore sustainable solutions tailored to your industry.",
+            "content": "",
+            "link": "/contact-us"
+        },
+        "casestudy": [
+            {
+                "title": "Case Study",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+                "image": "Skis/timeline/placeholder.jpg"
+            },
+            {
+                "title": "Case Study",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+                "image": "Skis/timeline/placeholder.jpg"
+            }
+        ],
+        "knowmore": {
+            "title": "",
+            "content": "",
+            "link": ""
+        },
+        "faq": [
+            {
+                "title": "How does recyclable epoxy impact the performance of my equipment?",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+            },
+            {
+                "title": "Will the use of recyclable epoxy affect the appearance of my equipment?",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+            },
+            {
+                "title": "Does recyclable epoxy make my equipment heavier?",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+            },
+            {
+                "title": "Is recyclable epoxy as durable as traditional epoxy for extreme conditions?",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+            },
+            {
+                "title": "What is the lifespan of equipment made with recyclable epoxy?",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+            }
+        ],
+        "tableData": {
+            "rows": [
+                {
+                    "Recyclamine System": "Recyclamine 001RG - 004H",
+                    "Bio Content (%)": "29",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 24",
+                    "Mix Viscosity mPa·s": "<300",
+                    "Pot Life (minutes)": "35 - 45 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": ">80",
+                    "Features": "Low initial mix viscosity, short demolding time, ambient cure bio-based resin system ideal for Infusion, light RTM and wet lay-up processes."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 001R - 001H",
+                    "Bio Content (%)": "",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 26",
+                    "Mix Viscosity mPa·s": "<300",
+                    "Pot Life (minutes)": "80 - 120 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": ">75",
+                    "Features": "Low initial mix viscosity, moderately reactivity system for Infusion, wet lay-up, Light RTM, etc."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 002R - 003H",
+                    "Bio Content (%)": "",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 30",
+                    "Mix Viscosity mPa·s": "1500 - 2300",
+                    "Pot Life (minutes)": "25 - 40 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": "75 - 90",
+                    "Features": "Ambient curing system designed for Compression Molding Process."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 003R - 005H",
+                    "Bio Content (%)": "",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 26",
+                    "Mix Viscosity mPa·s": "200 - 400",
+                    "Pot Life (minutes)": ">240 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": "75 - 90",
+                    "Features": "Slow reacting system, with longer pot life for Infusion, RTM, Lay-up, etc."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 008R - 026H",
+                    "Bio Content (%)": "",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 39",
+                    "Mix Viscosity mPa·s": "650-850",
+                    "Pot Life (minutes)": "25-35 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": "55-65",
+                    "Features": "Low initial mix viscosity, enables fast & complete impregnation of reinforcing fibers such as glass, carbon and poly-aramid."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 001RG - 013H3",
+                    "Bio Content (%)": "29",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 28",
+                    "Mix Viscosity mPa·s": "250 - 350",
+                    "Pot Life (minutes)": "400 - 600 (100 gms @30°C)",
+                    "Glass transition temperature (Tg) (oC)": "100 - 110",
+                    "Features": "Bio-based resin system with ultra slow reactivity and low initial mix viscosity that enables fast & complete impregnation of reinforcing fibers."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 005RG - 012H",
+                    "Bio Content (%)": "29",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 40",
+                    "Mix Viscosity mPa·s": "2000 - 3000",
+                    "Pot Life (minutes)": "> 900 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": "95 - 105",
+                    "Features": "Designed for Prepreg & SMC; also suitable for other processes due to its processing properties and semi-latent characteristics."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 018R - 027H",
+                    "Bio Content (%)": "",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 30",
+                    "Mix Viscosity mPa·s": "2200 - 2600",
+                    "Pot Life (minutes)": "45 - 55 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": "80 - 90",
+                    "Features": "Ambient curing system designed for Compression Molding Process."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 024RG - 013H3",
+                    "Bio Content (%)": "24",
+                    "Infusion": "√",
+                    "Wet-layup": "",
+                    "Light RTM": "",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 28",
+                    "Mix Viscosity mPa·s": "305",
+                    "Pot Life (minutes)": "",
+                    "Glass transition temperature (Tg) (oC)": "78 – 80",
+                    "Features": "Low viscosity, long pot life with moderate TG, large parts"
+                },
+                {
+                    "Recyclamine System": "Recyclamine 023R - 031H",
+                    "Bio Content (%)": "",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 39",
+                    "Mix Viscosity mPa·s": "800-1200",
+                    "Pot Life (minutes)": "15-30 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": "60 - 70",
+                    "Features": "Low initial mix viscosity, enables fast & complete impregnation of reinforcing fibers such as glass, carbon and poly-aramid."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 031R - 035H",
+                    "Bio Content (%)": "",
+                    "Infusion": "",
+                    "Wet-layup": "",
+                    "Light RTM": "",
+                    "Foaming": "√",
+                    "Mix Ratio (by weight)": "100 : 20",
+                    "Mix Viscosity mPa·s": "",
+                    "Pot Life (minutes)": "35 - 40",
+                    "Glass transition temperature (Tg) (oC)": "80 - 90",
+                    "Features": "Expandable foam system with cured density 170-180 gm/cm³. Suitable as core material for sandwich construction."
+                }
+            ]
+        }
+    },
+    {
+        "id": "kayaks",
+        "title": "Kayaks",
+        "thumbImage": "Kayaks&Surfboats/Kayaks - Cover.webp",
+        "bannerImage": "Kayaks&Surfboats/Kayaks banner.webp",
+        "shortDesc": "Strength, lightweight construction, and durability define the standards for advanced kayak design—but true performance shouldn’t come at the planet’s expense. With Recyclamine, manufacturers can create fully recyclable epoxy kayaks that meet demanding mechanical performance requirements, without modifying their established production processes. Sustainability and high performance, finally aligned.",
+        "details": "",
+        "sections": [
+            {
+                "title": "Kayaks",
+                "subTitle": "The demand for durable, sustainable water sports equipment is increasing.",
+                "content": "High-performance kayaks demand exceptional strength, minimal weight, and long-lasting durability. With Recyclamine, manufacturers can achieve all of this while creating fully recyclable epoxy kayaks, without sacrificing performance or altering their trusted production processes.",
+                "contentImg": ""
+            },
+            {
+                "title": "Why this is critical",
+                "subTitle": "By adopting recyclable epoxy, you can:",
+                "content": [
+                    "Enhance performance and durability.",
+                    "Reduce waste and landfill impact.",
+                    "Extend the life cycle of valuable materials.",
+                    "Meet the demands of eco-conscious consumers."
+                ],
+                "contentImg": ""
+            },
+            {
+                "title": "The Power of Recyclamine",
+                "subTitle": "Recyclamine’s epoxy solutions for kayaks combine durability with recyclability, ",
+                "content": "Providing an impact-resistant, High-performance option that supports both manufacturers and the environment.",
+                "contentImg": ""
+            }
+        ],
+        "clients": [
+            "Skis/clients/brand1.svg",
+            "Skis/clients/brand2.svg",
+            "Skis/clients/brand3.svg",
+            "Skis/clients/brand4.svg"
+        ],
+        "letsconnect": {
+            "title": "Ready to transform your products with recyclable epoxy? Connect with us to explore sustainable solutions tailored to your industry.",
+            "content": "",
+            "link": "/contact-us"
+        },
+        "casestudy": [
+            {
+                "title": "Case Study",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+                "image": "Skis/timeline/placeholder.jpg"
+            },
+            {
+                "title": "Case Study",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+                "image": "Skis/timeline/placeholder.jpg"
+            }
+        ],
+        "knowmore": {
+            "title": "",
+            "content": "",
+            "link": ""
+        },
+        "faq": [
+            {
+                "title": "How does recyclable epoxy impact the performance of my equipment?",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+            },
+            {
+                "title": "Will the use of recyclable epoxy affect the appearance of my equipment?",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+            },
+            {
+                "title": "Does recyclable epoxy make my equipment heavier?",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+            },
+            {
+                "title": "Is recyclable epoxy as durable as traditional epoxy for extreme conditions?",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+            },
+            {
+                "title": "What is the lifespan of equipment made with recyclable epoxy?",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+            }
+        ],
+        "tableData": {
+            "rows": [
+                {
+                    "Recyclamine System": "Recyclamine 001RG - 004H",
+                    "Bio Content (%)": "29",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Compression molding": "√",
+                    "Mix Ratio (by weight)": "100 : 24",
+                    "Mix Viscosity (mPa.s)": "<300",
+                    "Pot Life (minutes)": "35 - 45 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": ">80",
+                    "Features": "Low initial mix viscosity, short demolding time, ambient cure bio-based resin system ideal for Infusion, light RTM and wet lay-up processes."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 001R - 001H",
+                    "Bio Content (%)": "",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Compression molding": "",
+                    "Mix Ratio (by weight)": "100 : 26",
+                    "Mix Viscosity (mPa.s)": "<300",
+                    "Pot Life (minutes)": "80 - 120 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": ">75",
+                    "Features": "Low initial mix viscosity, moderately reactivity system for Infusion, wet lay-up, Light RTM, etc."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 002R - 003H",
+                    "Bio Content (%)": "",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Compression molding": "√",
+                    "Mix Ratio (by weight)": "100 : 30",
+                    "Mix Viscosity (mPa.s)": "1500 - 2300",
+                    "Pot Life (minutes)": "25 - 40 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": "75 - 90",
+                    "Features": "Ambient curing system designed for Compression Molding Process."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 003R - 005H",
+                    "Bio Content (%)": "",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Compression molding": "",
+                    "Mix Ratio (by weight)": "100 : 26",
+                    "Mix Viscosity (mPa.s)": "200 - 400",
+                    "Pot Life (minutes)": ">240 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": "75 - 90",
+                    "Features": "Slow reacting system, with longer pot life for Infusion, RTM, Lay-up, etc."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 008R - 026H",
+                    "Bio Content (%)": "",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Compression molding": "√",
+                    "Mix Ratio (by weight)": "100 : 39",
+                    "Mix Viscosity (mPa.s)": "650 - 850",
+                    "Pot Life (minutes)": "25 - 35 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": "55 - 65",
+                    "Features": "Low initial mix viscosity, enables fast & complete impregnation of reinforcing fibers such as glass, carbon and poly-aramid."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 001RG - 013H3",
+                    "Bio Content (%)": "29",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Compression molding": "",
+                    "Mix Ratio (by weight)": "100 : 28",
+                    "Mix Viscosity (mPa.s)": "250 - 350",
+                    "Pot Life (minutes)": "400 - 600 (100 gms @30°C)",
+                    "Glass transition temperature (Tg) (oC)": "100 - 110",
+                    "Features": "Bio-based resin system with ultra slow reactivity and low initial mix viscosity that enables fast & complete impregnation of reinforcing fibers."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 005RG - 012H",
+                    "Bio Content (%)": "29",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "",
+                    "Compression molding": "",
+                    "Mix Ratio (by weight)": "100 : 40",
+                    "Mix Viscosity (mPa.s)": "2000 - 3000",
+                    "Pot Life (minutes)": ">900 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": "95 - 105",
+                    "Features": "Designed for Prepreg & SMC; also suitable for other processes due to its processing properties and semi-latent characteristics."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 018R - 027H",
+                    "Bio Content (%)": "",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Compression molding": "√",
+                    "Mix Ratio (by weight)": "100 : 30",
+                    "Mix Viscosity (mPa.s)": "2200 - 2600",
+                    "Pot Life (minutes)": "45 - 55 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": "80 - 90",
+                    "Features": "Ambient curing system designed for Compression Molding Process."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 023R - 031H",
+                    "Bio Content (%)": "",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Compression molding": "√",
+                    "Mix Ratio (by weight)": "100 : 39",
+                    "Mix Viscosity (mPa.s)": "800 - 1200",
+                    "Pot Life (minutes)": "15 - 30 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": "60 - 70",
+                    "Features": "Low initial mix viscosity, enables fast & complete impregnation of reinforcing fibers such as glass, carbon and poly-aramid."
+                }
+            ]
+        }
+    },
+    {
+        "id": "wind-blades-and-spar-caps",
+        "title": "Wind blades & Spar Caps",
+        "thumbImage": "Wind blade Spar Cap/Wind Blade  Spar Cap - Cover.webp",
+        "bannerImage": "Wind blade Spar Cap/Wind blades & Spar Caps banner.webp",
+        "shortDesc": "Wind blades and spar caps must endure intense mechanical loads, fatigue, and years of environmental   exposure. Recyclamine delivers high-performance epoxy systems that meet these engineering demands while enabling complete end-of-life recyclability. Recyclamine integrates seamlessly into existing blade manufacturing processes, allowing blade manufacturers to maintain structural excellence today, with 100% recyclability “built-in” for tomorrow.",
+        "details": "c",
+        "sections": [
+            {
+                "title": "Wind blades & Spar Caps",
+                "subTitle": "Wind energy’s rapid expansion calls for materials that can withstand harsh environments.",
+                "content": "Wind blades are traditionally non-recyclable, posing a challenge for the industry as it seeks sustainable solutions. Recyclamine enables wind blades to be made fully recyclable from the start, without changing the manufacturing process. <br/> With global sustainability targets tightening, the wind energy sector faces increasing pressure to reduce environmental impact across the entire lifecycle.",
+                "contentImg": ""
+            },
+            {
+                "title": "Why this is critical",
+                "subTitle": "Recyclable epoxy enables:",
+                "content": [
+                    "100% Recyclable wind blades.",
+                    "Reduced landfill waste and CO2 pollution from incineration.",
+                    "Circularity of materials in the renewable energy sector.",
+                    "High quality recycled materials - suitable for re-use in similar applications."
+                ],
+                "contentImg": ""
+            },
+            {
+                "title": "The Power of Recyclamine",
+                "subTitle": "Recyclamine’s epoxy systems are engineered to meet the performance standards required by wind blades and spar caps, while offering end-of-life recyclability.",
+                "content": "This sustainable approach aligns with the renewable sector’s goals for a reduced environmental footprint.",
+                "contentImg": ""
+            }
+        ],
+        "clients": [
+            "Skis/clients/brand1.svg",
+            "Skis/clients/brand2.svg",
+            "Skis/clients/brand3.svg",
+            "Skis/clients/brand4.svg"
+        ],
+        "letsconnect": {
+            "title": "Ready to transform your products with recyclable epoxy? Connect with us to explore sustainable solutions tailored to your industry.",
+            "content": "",
+            "link": "/contact-us"
+        },
+        "casestudy": [
+            {
+                "title": "Case Study",
+                "description": "Siemens Gamesa Renewable Energy, won the JEC Innovation Award in 2022",
+                "image": "Skis/timeline/placeholder.jpg"
+            }
+        ],
+        "knowmore": {
+            "title": "Want to know more about how Recyclamine’s epoxy adhesive system is impacting the rotor blades? Resources → Recyclable Epoxy Adhesive by Amit Dixit",
+            "content": "",
+            "link": "/contact-us"
+        },
+        "faq": [
+            {
+                "title": "Why is recycling wind turbine blades such a challenge?",
+                "content": "Traditional wind turbine blades are made from non-recyclable epoxy systems, which means they often end up in landfills after their useful life due to the high strength and durability requirements of blade materials."
+            },
+            {
+                "title": "How does Recyclamine address the recyclability of wind turbine blades?",
+                "content": "Recyclamine’s unique epoxy systems for infusion, bonding, root segments, repair, and core materials make wind blades fully recyclable, allowing the recovery of fibers and epoxy in a reusable form."
+            },
+            {
+                "title": "What are the environmental benefits of using Recyclamine systems in wind blades?",
+                "content": "By making wind blades 100% recyclable, Recyclamine promotes a circular economy and provides a sustainable solution to the disposal challenges of the wind industry, aligning with long-term environmental goals."
+            },
+            {
+                "title": "How does the recyclability of blades impact the overall sustainability performance of wind energy?",
+                "content": "Recyclable blades reduce landfill waste, close the loop in blade production and disposal, and enhance the sustainability performance of companies by helping them meet circular economy goals."
+            },
+            {
+                "title": "Is there any recognition for Recyclamine's recyclable wind blade technology?",
+                "content": "Yes, the world's first-ever recyclable wind blade, created in collaboration with Siemens Gamesa Renewable Energy, won the JEC Innovation Award in 2022 for its groundbreaking design and sustainability impact."
+            }
+        ],
+        "tableData": {
+            "rows": [
+                {
+                    "Recyclamine System": "Recyclamine 016R - 023H",
+                    "Infusion": "√",
+                    "Hand-layup": "√",
+                    "Bonding": "",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 31",
+                    "Mix Viscosity (mPa.s)": "800 - 1000",
+                    "Pot Life (minutes)": "110 - 150 (150 gms)",
+                    "Glass transition temperature (Tg) (oC)": ">75",
+                    "Features": "Laminating system for wet lay-up process, suitable for repairing process defects in Wind blades."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 015R - 022H",
+                    "Infusion": "√",
+                    "Hand-layup": "√",
+                    "Bonding": "",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 34",
+                    "Mix Viscosity (mPa.s)": "1000 - 1300",
+                    "Pot Life (minutes)": "30 - 60 (150 gms)",
+                    "Glass transition temperature (Tg) (oC)": ">75",
+                    "Features": "Laminating system for wet lay-up process, suitable for onsite repairs of Wind blades."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 017R - 025H1_H2",
+                    "Infusion": "√",
+                    "Hand-layup": "√",
+                    "Bonding": "",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 26",
+                    "Mix Viscosity (mPa.s)": "<300",
+                    "Pot Life (minutes)": "300 - 400 (1 kg)",
+                    "Glass transition temperature (Tg) (oC)": "75 - 85",
+                    "Features": "One resin - two hardener system designed for various composite fabrication techniques under varying environmental conditions."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 014R - 021H",
+                    "Infusion": "",
+                    "Hand-layup": "",
+                    "Bonding": "√",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 43",
+                    "Mix Viscosity (mPa.s)": "250k - 350k",
+                    "Pot Life (minutes)": "120 - 160 (@35°C)",
+                    "Glass transition temperature (Tg) (oC)": "75 - 85",
+                    "Features": "Toughened, thixotropic adhesive system with excellent sag resistance. Suitable for structural joining applications."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 019R - 013H3",
+                    "Infusion": "√",
+                    "Hand-layup": "√",
+                    "Bonding": "",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 28",
+                    "Mix Viscosity (mPa.s)": "200 - 300",
+                    "Pot Life (minutes)": "250 - 400 (1 kg)",
+                    "Glass transition temperature (Tg) (oC)": "75 - 85",
+                    "Features": "Ambient curing system designed for resin infusion. Suitable for on-shore blade manufacturing."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 009R - 016H1",
+                    "Infusion": "√",
+                    "Hand-layup": "√",
+                    "Bonding": "",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 28",
+                    "Mix Viscosity (mPa.s)": "< 300",
+                    "Pot Life (minutes)": "130 - 200 (1 kg)",
+                    "Glass transition temperature (Tg) (oC)": "75 - 85",
+                    "Features": "Ambient curing system designed for resin infusion. Suitable for on-shore blade manufacturing."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 007R - 013H1-H2-H3",
+                    "Infusion": "√",
+                    "Hand-layup": "√",
+                    "Bonding": "",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100:30 / 100:29 / 100:28",
+                    "Mix Viscosity (mPa.s)": "200 - 270 / 180 - 250 / 180 - 125",
+                    "Pot Life (minutes)": "130 - 200 / 200 - 400 / 500 - 800",
+                    "Glass transition temperature (Tg) (oC)": "75 - 85",
+                    "Features": "One resin - three hardener, standard, slow, extra slow reactivity system with low viscosity. Suitable for various off-shore blade manufacturing needs."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 025R - 013H3",
+                    "Infusion": "√",
+                    "Hand-layup": "√",
+                    "Bonding": "",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 28",
+                    "Mix Viscosity (mPa.s)": "< 220",
+                    "Pot Life (minutes)": "400 - 700 (1 kg)",
+                    "Glass transition temperature (Tg) (oC)": "76 - 80",
+                    "Features": "REACH Compliant, Non-Reprotoxic infusion system with low viscosity and long pot life."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 026R - 013H3",
+                    "Infusion": "√",
+                    "Hand-layup": "√",
+                    "Bonding": "",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 28",
+                    "Mix Viscosity (mPa.s)": "< 220",
+                    "Pot Life (minutes)": "400 - 700 (1 kg)",
+                    "Glass transition temperature (Tg) (oC)": "76 - 80",
+                    "Features": "REACH Compliant, Non-Reprotoxic infusion system with low viscosity and long pot life."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 030R - 013H3",
+                    "Infusion": "√",
+                    "Hand-layup": "√",
+                    "Bonding": "",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 27",
+                    "Mix Viscosity (mPa.s)": "200 - 300",
+                    "Pot Life (minutes)": "450 - 600 (1 kg)",
+                    "Glass transition temperature (Tg) (oC)": "75 - 85",
+                    "Features": "REACH Compliant, Non-Reprotoxic infusion system with low viscosity and long pot life."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 028R - 034H",
+                    "Infusion": "√",
+                    "Hand-layup": "√",
+                    "Bonding": "",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 32",
+                    "Mix Viscosity (mPa.s)": "1000 - 1300",
+                    "Pot Life (minutes)": "30 - 50",
+                    "Glass transition temperature (Tg) (oC)": ">75",
+                    "Features": "REACH Compliant, Non-Reprotoxic hand Lay-up system with fast reactivity."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 029R - 013H3",
+                    "Infusion": "√",
+                    "Hand-layup": "√",
+                    "Bonding": "",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 27",
+                    "Mix Viscosity (mPa.s)": "200 - 300",
+                    "Pot Life (minutes)": "350 - 500 (1 kg)",
+                    "Glass transition temperature (Tg) (oC)": "75 - 85",
+                    "Features": "REACH Compliant, Non-Reprotoxic infusion system with low viscosity and long pot life."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 031R - 035H",
+                    "Infusion": "",
+                    "Hand-layup": "",
+                    "Bonding": "",
+                    "Foaming": "√",
+                    "Mix Ratio (by weight)": "100 : 20",
+                    "Mix Viscosity (mPa.s)": "",
+                    "Pot Life (minutes)": "35 - 40",
+                    "Glass transition temperature (Tg) (oC)": "80 - 90",
+                    "Features": "Expandable foam system with cured density 170-180 gm/cm³. Suitable as core material for sandwich construction."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 034R - 037H",
+                    "Infusion": "√",
+                    "Hand-layup": "√",
+                    "Bonding": "",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 33",
+                    "Mix Viscosity (mPa.s)": "1500 - 2000",
+                    "Pot Life (minutes)": "25 - 45",
+                    "Glass transition temperature (Tg) (oC)": ">75",
+                    "Features": "REACH Compliant, Non-Reprotoxic hand Lay-up system with fast reactivity."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 032R - 036H",
+                    "Infusion": "",
+                    "Hand-layup": "",
+                    "Bonding": "√",
+                    "Foaming": "",
+                    "Mix Ratio (by weight)": "100 : 43",
+                    "Mix Viscosity (mPa.s)": "400k - 500k",
+                    "Pot Life (minutes)": "80 - 120 (@35°C)",
+                    "Glass transition temperature (Tg) (oC)": "75 - 85",
+                    "Features": "REACH Compliant, Non-Reprotoxic, Toughened, thixotropic adhesive system with excellent sag resistance. Suitable for structural joining application."
+                }
+            ]
+        }
+    },
+    {
+        "id": "mobility-and-transportation",
+        "title": "Mobility & Transportation",
+        "thumbImage": "Mobility Transportation/Mobility-Transportation-Cover.jpg",
+        "bannerImage": "Mobility Transportation/Mobility-&-Transportation-banner.jpg",
+        "shortDesc": "Mobility and transportation applications rely on composites that balance mechanical strength, stiffness, and lightweight design. Recyclamine delivers high-performance epoxy systems that integrate seamlessly into existing workflows while adding true end-of-life recyclability to critical components. This boosts fuel efficiency, reduces material waste, and supports industry to meet the sustainability requirements of the future.",
+        "details": "",
+        "sections": [
+            {
+                "title": "Mobility & Transportation",
+                "subTitle": "The mobility sector increasingly relies on composite materials to make vehicles lighter, more efficient, and environmentally responsible.",
+                "content": "From electric vehicles to next-generation mobility solutions, transportation is evolving fast. Traditional epoxy composites can meet the engineering needs of manufacturers, but are not easily recycled at the end of life, creating a waste problem. Recyclamine provides a new path forward-high-performance, lightweight components that are fully recyclable at the end of life. It’s performance without compromise, providing sustainability built in.",
+                "contentImg": ""
+            },
+            {
+                "title": "Why this is critical",
+                "subTitle": "Recyclable epoxy enables:",
+                "content": [
+                    "Full recyclability of composites, preventing waste from going to landfill or Incineration.",
+                    "Manufacturers to achieve sustainability and carbon-reduction targets. Increasingly important as legislation tightens globally.",
+                    "Supports circularity by allowing materials to be recovered and reused in similar applications."
+                ],
+                "contentImg": ""
+            },
+            {
+                "title": "The Power of Recyclamine",
+                "subTitle": "In the mobility and transportation sector, durability, weight, and sustainability are key.",
+                "content": "We provide a recyclable epoxy solution that meets the stringent safety and performance standards of the automotive and transportation industry, ensuring optimal strength-to-weight ratio.",
+                "contentImg": ""
+            }
+        ],
+        "clients": [
+            "Skis/clients/brand1.svg",
+            "Skis/clients/brand2.svg",
+            "Skis/clients/brand3.svg",
+            "Skis/clients/brand4.svg"
+        ],
+        "letsconnect": {
+            "title": "Drive the future of transportation with sustainable solutions. Connect with us to make your vehicles lighter, stronger, and more recyclable.",
+            "content": "",
+            "link": "/contact-us"
+        },
+        "casestudy": [
+            {
+                "title": "Case Study",
+                "description": "Siemens Gamesa Renewable Energy, won the JEC Innovation Award in 2022",
+                "image": "Skis/timeline/placeholder.jpg"
+            },
+            {
+                "title": "Case Study",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+                "image": "Skis/timeline/placeholder.jpg"
+            }
+        ],
+        "knowmore": {
+            "title": "Explore our white paper on sustainable transportation and discover how recyclable epoxy can reduce vehicle weight and environmental impact, boosting your ESG commitments. Read more here.",
+            "content": "",
+            "link": "/contact-us"
+        },
+        "faq": [
+            {
+                "title": "Lorem Ipsum",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley"
+            },
+            {
+                "title": "Lorem Ipsum",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley"
+            }
+        ],
+        "tableData": {
+            "rows": [
+                {
+                    "Recyclamine System": "Recyclamine 003R - 005H",
+                    "Infusion": "√",
+                    "Hand-layup": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Filament Winding": "√",
+                    "Mix Ratio (by weight)": "100 : 26",
+                    "Mix Viscosity (mPa.s)": "200 - 400",
+                    "Pot Life (minutes)": ">240 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": "75 - 90",
+                    "Features": "Slow reacting system, with longer pot life for Infusion, RTM, Lay-up, Filament Winding, etc."
+                },
+                {
+                    "Recyclamine System": "RecyRecyclamine 010R - 013H3",
+                    "Infusion": "",
+                    "Hand-layup": "",
+                    "Wet-layup": "",
+                    "Light RTM": "",
+                    "Filament Winding": "√",
+                    "Mix Ratio (by weight)": "100 : 26",
+                    "Mix Viscosity (mPa.s)": "600 - 1000",
+                    "Pot Life (minutes)": "> 250 (1 kg)",
+                    "Glass transition temperature (Tg) (oC)": "105 - 115",
+                    "Features": "Moderate viscosity, toughened system designed for wet winding process to manufacture Type IV pressure vessels."
+                }
+            ]
+        }
+    },
+    {
+        "id": "type-iv-pressure-vessel",
+        "title": "Type IV Pressure Vessel",
+        "thumbImage": "Hydrogen Cylinder/Hydrogen Cylinder - Cover.webp",
+        "bannerImage": "Hydrogen Cylinder/Hydrogen Cylinders banner.webp",
+        "shortDesc": "Hydrogen and CNG Type IV cylinders require strong, reliable materials able to withstand extreme pressures. Increasingly, these solutions also need to be lightweight to meet future transportation needs. Recyclamine epoxy systems meet those requirements whilst enabling full recycling and recovery of the valuable carbon fibre and epoxy at the end of life. With Recyclamine, sustainability, performance and value are all achievable.",
+        "details": "",
+        "sections": [
+            {
+                "title": "Type IV Pressure Vessel",
+                "subTitle": "Type IV pressure vessels demand exceptional strength, low weight, and long-term durability; properties that are safety critical for high-pressure hydrogen and CNG storage.",
+                "content": "Recyclamine enables fully recyclable carbon-fibre composite vessels that meet stringent performance and safety requirements. Manufacturers can now build circularity directly into next-generation energy storage solutions, reducing the environmental impact of disposal, and recovering valuable carbon fibre and resin for re-use in similar applications.",
+                "contentImg": ""
+            },
+            {
+                "title": "Why this is critical",
+                "subTitle": "Recyclable epoxy enables:",
+                "content": [
+                    "Full recyclability, minimising environmental impact.",
+                    "Strength and chemical resistance for safe high-pressure use.",
+                    "Sustainable practices in the clean energy sector.",
+                    "Recovery of valuable materials ready to re-use in similar applications."
+                ],
+                "contentImg": ""
+            },
+            {
+                "title": "The Power of Recyclamine",
+                "subTitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+                "content": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+                "contentImg": ""
+            }
+        ],
+        "clients": [
+            "Skis/clients/brand1.svg",
+            "Skis/clients/brand2.svg",
+            "Skis/clients/brand3.svg",
+            "Skis/clients/brand4.svg"
+        ],
+        "letsconnect": {
+            "title": "Looking to enhance safety and sustainability? Partner with Recyclamine to deliver high-performance, recyclable hydrogen storage solutions.",
+            "content": "",
+            "link": "/contact-us"
+        },
+        "casestudy": [
+            {
+                "title": "Case Study",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+                "image": "Skis/timeline/placeholder.jpg"
+            },
+            {
+                "title": "Case Study",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+                "image": "Skis/timeline/placeholder.jpg"
+            }
+        ],
+        "knowmore": {
+            "title": "Dive into our technical research on recyclable epoxy in high-pressure applications and learn how it supports a greener hydrogen economy. Discover the impact here.",
+            "content": "",
+            "link": "/contact-us"
+        },
+        "faq": [
+            {
+                "title": "Lorem Ipsum",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley"
+            },
+            {
+                "title": "Lorem Ipsum",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley"
+            }
+        ],
+        "tableData": {
+            "rows": [
+                {
+                    "Recyclamine System": "Recyclamine 010R - 013H3",
+                    "Filament Winding": "√",
+                    "Mix Ratio (by weight)": "100 : 26",
+                    "Mix Viscosity (mPa.s)": "600 - 1000",
+                    "Pot Life (minutes)": "> 250 (1 kg)",
+                    "Glass transition temperature (Tg) (oC)": "105 - 115",
+                    "Features": "Moderate viscosity, toughened system designed for wet winding process to manufacture Type IV pressure vessels."
+                }
+            ]
+        }
+    },
+    {
+        "id": "electricals-electronics",
+        "title": "Electricals & Electronics",
+        "thumbImage": "Electrical & Electronics/Electrical & Electronics - Cover.webp",
+        "bannerImage": "Electrical & Electronics/Electricals & Electronics banner.webp",
+        "shortDesc": "The electronics industry benefits from Recyclamine’s epoxy with applications in printed circuit boards and insulation that require durability, resistance, and sustainability, contributing to eco-friendly product lifecycles.",
+        "details": "",
+        "sections": [
+            {
+                "title": "Electricals & Electronics",
+                "subTitle": "Epoxy composites are used in the Electrical industry for their excellent insulation and dimensional stability in hot conditions.",
+                "content": "They are also widely used in Electronic PCB manufacturing for the same reasons. These requirements make recycling tough, but Recyclamine opens the door to more sustainable manufacturing in these key sectors.",
+                "contentImg": ""
+            },
+            {
+                "title": "Why this is critical",
+                "subTitle": "Recyclable epoxy enables:",
+                "content": [
+                    "Recyclable insulation for circuits, boards, and other components including manufacturing scraps to end-of-use disposal",
+                    "Fully recyclable electrical insulation materials for transformers, generators and motors."
+                ],
+                "contentImg": ""
+            },
+            {
+                "title": "The Power of Recyclamine",
+                "subTitle": "Using recyclable epoxy means less waste, aligning with industry demands for sustainable product lifecycle management.",
+                "content": "Our recyclable epoxy is designed to meet electrical insulation standards while ensuring recyclability at end-of-life, supporting eco-friendly electronic production.",
+                "contentImg": ""
+            }
+        ],
+        "clients": [
+            "Skis/clients/brand1.svg",
+            "Skis/clients/brand2.svg",
+            "Skis/clients/brand3.svg",
+            "Skis/clients/brand4.svg"
+        ],
+        "letsconnect": {
+            "title": "Ready to reduce e-waste? Collaborate with Recyclamine to create eco-friendly electronics that perform reliably and recycle responsibly.",
+            "content": "",
+            "link": "/contact-us"
+        },
+        "casestudy": [
+            {
+                "title": "Case Study",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+                "image": "Skis/timeline/placeholder.jpg"
+            },
+            {
+                "title": "Case Study",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+                "image": "Skis/timeline/placeholder.jpg"
+            }
+        ],
+        "knowmore": {
+            "title": "Read our in-depth analysis on recyclable epoxy in electronics to see how circular solutions can reshape the e-waste challenge. Explore the study here.",
+            "content": "",
+            "link": "/contact-us"
+        },
+        "faq": [
+            {
+                "title": "Lorem Ipsum",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley"
+            },
+            {
+                "title": "Lorem Ipsum",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley"
+            }
+        ],
+        "tableData": {
+            "rows": [
+                {
+                    "Recyclamine System": "Recyclamine 002RG - 033H",
+                    "Bio Content (%)": "29",
+                    "APG": "√",
+                    "Vacuum Casting": "√",
+                    "Mix Ratio (by weight)": "100:27 + 191 phr Silica",
+                    "Mix Viscosity (mPa.s)": "30,000 - 40,000",
+                    "Glass transition temperature (Tg) (oC)": "105 - 120",
+                    "Features": "Electrical casting system (Class E)."
+                }
+            ]
+        }
+    },
+    {
+        "id": "drones",
+        "title": "Drones",
+        "thumbImage": "Drones/Drones - Cover.webp",
+        "bannerImage": "Drones/Drones banner.webp",
+        "shortDesc": "Weight and strength are critical for drones. That’s why we have ensured that, Recyclamine provides a lightweight and recyclable epoxy solution, enabling advanced designs that don’t compromise on environmental impact.",
+        "details": "",
+        "sections": [
+            {
+                "title": "Drones",
+                "subTitle": "Drones are lightweight, durable, and require high-performing materials.",
+                "content": "Recyclamine provides recyclable epoxy solutions that don’t compromise on weight or structural integrity.",
+                "contentImg": ""
+            },
+            {
+                "title": "Why this is critical",
+                "subTitle": "Recyclable epoxy enables:",
+                "content": [
+                    "Recyclamine offers full recyclability for End of life drones,  damaged components, and composite waste during manufacturing.",
+                    "Unmanned Aircraft  and VTOL craft are facing more regulation as they increase in numbers.",
+                    "Recyclamine offers manufacturers a route to maintain the structural integrity and  performance with recyclability built in.    "
+                ],
+                "contentImg": ""
+            },
+            {
+                "title": "The Power of Recyclamine",
+                "subTitle": "Our recyclable epoxy enables drone manufacturers to create sustainable,",
+                "content": "high-performance drones that are light and easy to recycle.",
+                "contentImg": ""
+            }
+        ],
+        "clients": [
+            "Skis/clients/brand1.svg",
+            "Skis/clients/brand2.svg",
+            "Skis/clients/brand3.svg",
+            "Skis/clients/brand4.svg"
+        ],
+        "letsconnect": {
+            "title": "Empower your next generation of drones with sustainable epoxy technology. Contact Recyclamine to build durable, recyclable drones that protect the environment.",
+            "content": "",
+            "link": "/contact-us"
+        },
+        "casestudy": [
+            {
+                "title": "Case Study",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+                "image": "Skis/timeline/placeholder.jpg"
+            },
+            {
+                "title": "Case Study",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+                "image": "Skis/timeline/placeholder.jpg"
+            }
+        ],
+        "knowmore": {
+            "title": "Discover our insights into recyclable materials in drone manufacturing and learn how Recyclamine epoxy can improve both performance and sustainability. Read the research here.",
+            "content": "",
+            "link": "/contact-us"
+        },
+        "faq": [
+            {
+                "title": "Lorem Ipsum",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley"
+            },
+            {
+                "title": "Lorem Ipsum",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley"
+            }
+        ],
+        "tableData": {
+            "rows": [
+                {
+                    "Recyclamine System": "Recyclamine 001RG - 004H",
+                    "Bio Content (%)": "29",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Mix Ratio (by weight)": "100 : 24",
+                    "Mix Viscosity (mPa.s)": "<300",
+                    "Pot Life (minutes)": "35 - 45 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": ">80",
+                    "Features": "Low initial mix viscosity, short demolding time, ambient cure bio-based resin system ideal for Infusion, light RTM and wet lay-up processes."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 001R - 001H",
+                    "Bio Content (%)": "",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Mix Ratio (by weight)": "100 : 26",
+                    "Mix Viscosity (mPa.s)": "<300",
+                    "Pot Life (minutes)": "80 - 120 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": ">75",
+                    "Features": "Low initial mix viscosity, moderately reactivity system for Infusion, wet lay-up, Light RTM, etc."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 002R - 003H",
+                    "Bio Content (%)": "",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Mix Ratio (by weight)": "100 : 30",
+                    "Mix Viscosity (mPa.s)": "1500 - 2300",
+                    "Pot Life (minutes)": "25 - 40 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": "75 - 90",
+                    "Features": "Ambient curing system designed for Compression Molding Process."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 003R - 005H",
+                    "Bio Content (%)": "",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "",
+                    "Mix Ratio (by weight)": "100 : 26",
+                    "Mix Viscosity (mPa.s)": "200 - 400",
+                    "Pot Life (minutes)": ">240 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": "75 - 90",
+                    "Features": "Slow reacting system, with longer pot life for Infusion, RTM, Lay-up, etc."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 008R - 026H",
+                    "Bio Content (%)": "",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Mix Ratio (by weight)": "100 : 39",
+                    "Mix Viscosity (mPa.s)": "650 - 850",
+                    "Pot Life (minutes)": "25 - 35 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": "55 - 65",
+                    "Features": "Low initial mix viscosity, enables fast & complete impregnation of reinforcing fibers such as glass, carbon and poly-aramid."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 001RG - 013H3",
+                    "Bio Content (%)": "29",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "",
+                    "Mix Ratio (by weight)": "100 : 28",
+                    "Mix Viscosity (mPa.s)": "250 - 350",
+                    "Pot Life (minutes)": "400 - 600 (100 gms @30°C)",
+                    "Glass transition temperature (Tg) (oC)": "100 - 110",
+                    "Features": "Bio-based resin system with ultra slow reactivity and low initial mix viscosity that enables fast & complete impregnation of reinforcing fibers."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 005RG - 012H",
+                    "Bio Content (%)": "29",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "",
+                    "Mix Ratio (by weight)": "100 : 40",
+                    "Mix Viscosity (mPa.s)": "2000 - 3000",
+                    "Pot Life (minutes)": "> 900 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": "95 - 105",
+                    "Features": "Designed for Prepreg & SMC; also suitable for other processes due to its processing properties and semi-latent characteristics."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 018R - 027H",
+                    "Bio Content (%)": "",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Mix Ratio (by weight)": "100 : 30",
+                    "Mix Viscosity (mPa.s)": "2200 - 2600",
+                    "Pot Life (minutes)": "45 - 55 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": "80 - 90",
+                    "Features": "Ambient curing system designed for Compression Molding Process."
+                },
+                {
+                    "Recyclamine System": "Recyclamine 024RG - 013H3",
+                    "Bio Content (%)": "24",
+                    "Infusion": "√",
+                    "Wet-layup": "",
+                    "Light RTM": "",
+                    "Mix Ratio (by weight)": "100 : 28",
+                    "Mix Viscosity (mPa.s)": "305",
+                    "Pot Life (minutes)": "",
+                    "Glass transition temperature (Tg) (oC)": "78 – 80",
+                    "Features": "Low viscosity, long pot life with moderate TG, large parts"
+                },
+                {
+                    "Recyclamine System": "Recyclamine 023R - 031H",
+                    "Bio Content (%)": "",
+                    "Infusion": "√",
+                    "Wet-layup": "√",
+                    "Light RTM": "√",
+                    "Mix Ratio (by weight)": "100 : 39",
+                    "Mix Viscosity (mPa.s)": "800 - 1200",
+                    "Pot Life (minutes)": "15 - 30 (100 gms)",
+                    "Glass transition temperature (Tg) (oC)": "60 - 70",
+                    "Features": "Low initial mix viscosity, enables fast & complete impregnation of reinforcing fibers such as glass, carbon and poly-aramid."
+                }
+            ]
+        }
+    },
+    {
+        "id": "other-composites",
+        "title": "Other Composites",
+        "thumbImage": "Other Composites/Other Composites Cover.jpg",
+        "bannerImage": "Other Composites/Other-Composite-banner.jpg",
+        "shortDesc": "Recyclamine's epoxy also offers robust performance and recyclability across diverse composite applications, meeting specific needs in industries ranging from infrastructure to marine. Our technology enables durability without compromising environmental standards.",
+        "details": "",
+        "sections": [
+            {
+                "title": "Other Composites",
+                "subTitle": "Recyclamine’s recyclable epoxy solution applies to a wide range of composite materials, driving sustainable innovation across various industries that rely on advanced composites.",
+                "content": "Composite waste is a growing concern across sectors. Recyclamine addresses this by enabling recycling of traditionally non-recyclable composites, advancing circularity.",
+                "contentImg": ""
+            },
+            {
+                "title": "Why this is critical",
+                "subTitle": "Recyclable epoxy enables:",
+                "content": [
+                    "Full recyclability, reducing end-of-life waste.",
+                    "Maintains strength and durability across applications.",
+                    "Supports circularity and sustainable material use.",
+                    "Integrates seamlessly into existing manufacturing processes."
+                ],
+                "contentImg": ""
+            },
+            {
+                "title": "The Power of Recyclamine",
+                "subTitle": "We provide versatile, recyclable epoxy solutions adaptable to a variety of",
+                "content": "composite applications, ensuring sustainability across industries.",
+                "contentImg": ""
+            }
+        ],
+        "clients": [
+            "Skis/clients/brand1.svg",
+            "Skis/clients/brand2.svg",
+            "Skis/clients/brand3.svg",
+            "Skis/clients/brand4.svg"
+        ],
+        "letsconnect": {
+            "title": "Interested in sustainable composites for your industry? Partner with Recyclamine to create adaptable, high-performance composites with recyclability at their core.",
+            "content": "",
+            "link": "/contact-us"
+        },
+        "casestudy": [
+            {
+                "title": "Case Study",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+                "image": "Skis/timeline/placeholder.jpg"
+            },
+            {
+                "title": "Case Study",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+                "image": "Skis/timeline/placeholder.jpg"
+            }
+        ],
+        "knowmore": {
+            "title": "Check out our comprehensive report on recyclable epoxy solutions across industries and learn how Recyclamine leads in advancing circular composites. See the report here.",
+            "content": "",
+            "link": "/contact-us"
+        },
+        "faq": [
+            {
+                "title": "Lorem Ipsum",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley"
+            },
+            {
+                "title": "Lorem Ipsum",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley"
+            }
+        ],
+        "tableData": {
+            "rows": [
+                {
+                    "Recyclamine System": "Recyclamine 020R - 029H",
+                    "Bio Content (%)": "",
+                    "Infusion": "",
+                    "Hand-layup": "√",
+                    "Mix Ratio (by weight)": "100 : 25",
+                    "Mix Viscosity (mPa.s)": "350 - 400",
+                    "Glass transition temperature (Tg) (oC)": "80",
+                    "Features": "Low viscosity, accelerated curing, small to medium sized parts"
+                },
+                {
+                    "Recyclamine System": "Recyclamine 024RG - 013H3",
+                    "Bio Content (%)": "24",
+                    "Infusion": "√",
+                    "Hand-layup": "",
+                    "Mix Ratio (by weight)": "100 : 28",
+                    "Mix Viscosity (mPa.s)": "280 - 330",
+                    "Glass transition temperature (Tg) (oC)": "78 - 80",
+                    "Features": "Low viscosity, long pot life with moderate TG, large parts"
+                }
+            ]
+        }
+    }
+]

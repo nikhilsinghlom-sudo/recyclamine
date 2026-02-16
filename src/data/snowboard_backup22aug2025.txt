@@ -1,0 +1,260 @@
+
+{
+    "id": "snowboards",
+        "title": "Snowboards",
+            "thumbImage": "Snowboards/Snowboards-Cover.webp",
+                "bannerImage": "Snowboards/Surfboards-banner.webp",
+                    "shortDesc": "Our snowboard, crafted with Recyclamine's epoxy, sets a new benchmark in performance, strength, and flexibility.The advanced material provides exceptional responsiveness, enabling riders to tackle varied terrains with precision and control.Beyond performance, our solution champions sustainability, offering a responsible approach to equipment disposal.By using Recyclamine’ s epoxy, we not only elevate the snowboarding experience but also contribute to a circular economy, ensuring a future where sports equipment is part of the sustainable solution.",
+                        "details": "",
+                            "sections": [{
+                                "title": "Snowboards",
+                                "subTitle": "Traditional board production generates significant waste, and most boards are non-recyclable, adding to environmental strain.",
+                                "content": "",
+                                "contentImg": ""
+                            },
+                            {
+                                "title": "Why should you Care?",
+                                "subTitle": "By adopting recyclable epoxy, you can:",
+                                "content": [
+                                    "Extend the life cycle of materials,",
+                                    "Reduce waste, and",
+                                    "Meet the demands of eco-conscious consumers"
+                                ],
+                                "contentImg": ""
+                            },
+                            {
+                                "title": "The Power of Recyclamine",
+                                "subTitle": "Recyclamine creates epoxy systems specifically for surfboards and snowboards, combining flexibility, impact resistance, and recyclability.",
+                                "content": [
+                                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.,",
+                                    "Aliquam aliquet sapien ac nibh consectetur molestie quis non odio.",
+                                    "Maecenas pellentesque lorem eu nisl feugiat, et eleifend urna porta."
+                                ],
+                                "contentImg": ""
+                            }
+                            ],
+                                "clients": [
+                                    "Skis/clients/brand1.svg",
+                                    "Skis/clients/brand2.svg",
+                                    "Skis/clients/brand3.svg",
+                                    "Skis/clients/brand4.svg"
+                                ],
+                                    "letsconnect": {
+        "title": "Ready to transform your products with recyclable epoxy? Connect with us to explore sustainable solutions tailored to your industry.",
+            "content": "",
+                "link": "/contact-us"
+    },
+    "casestudy": [{
+        "title": "Case Study",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+        "image": "Skis/timeline/placeholder.jpg"
+    },
+    {
+        "title": "Case Study",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+        "image": "Skis/timeline/placeholder.jpg"
+    }
+    ],
+        "knowmore": {
+        "title": "",
+            "content": "",
+                "link": ""
+    },
+    "faq": [{
+        "title": "How does recyclable epoxy impact the performance of my equipment?",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+    },
+    {
+        "title": "Will the use of recyclable epoxy affect the appearance of my equipment?",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+    },
+    {
+        "title": "Does recyclable epoxy make my equipment heavier?",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+    },
+    {
+        "title": "Is recyclable epoxy as durable as traditional epoxy for extreme conditions?",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+    },
+    {
+        "title": "What is the lifespan of equipment made with recyclable epoxy?",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+    }
+    ],
+        "tableData": {
+        "rows": [{
+            "Recyclamine System": "Recyclamine 001RG - 004H",
+            "Bio Content": "√",
+            "Infusion": "√",
+            "HLU": "√",
+            "Wet-layup": "√",
+            "Light RTM": "√",
+            "FW": "",
+            "Pultrusion": "",
+            "Bonding": "",
+            "Foaming": "",
+            "Insulation": "",
+            "SMC": "",
+            "Mix Ratio": "100:24",
+            "Mix Viscosity mPa·s": "<300",
+            "Pot Life": "35 - 45 (100 gms)",
+            "Tg °C": ">80",
+            "Features": "Low initial mix viscosity, short demolding time, ambient cure bio-based resin system ideal for Infusion, light RTM and wet lay-up processes."
+        },
+        {
+            "Recyclamine System": "Recyclamine 001R - 001H",
+            "Bio Content": "",
+            "Infusion": "√",
+            "HLU": "√",
+            "Wet-layup": "√",
+            "Light RTM": "√",
+            "FW": "",
+            "Pultrusion": "",
+            "Bonding": "",
+            "Foaming": "",
+            "Insulation": "",
+            "SMC": "",
+            "Mix Ratio": "100:26",
+            "Mix Viscosity mPa·s": "<300",
+            "Pot Life": "80 - 120 (100 gms)",
+            "Tg °C": ">75",
+            "Features": "Low initial mix viscosity, moderately reactivity system for Infusion, wet lay-up, Light RTM, etc."
+        },
+        {
+            "Recyclamine System": "Recyclamine 002R - 003H",
+            "Bio Content": "",
+            "Infusion": "√",
+            "HLU": "√",
+            "Wet-layup": "√",
+            "Light RTM": "√",
+            "FW": "",
+            "Pultrusion": "",
+            "Bonding": "",
+            "Foaming": "",
+            "Insulation": "",
+            "SMC": "",
+            "Mix Ratio": "100:30",
+            "Mix Viscosity mPa·s": "1500 - 2300",
+            "Pot Life": "25 - 40 (100 gms)",
+            "Tg °C": "75 - 90",
+            "Features": "Ambient curing system designed for Compression Molding Process."
+        },
+        {
+            "Recyclamine System": "Recyclamine 003R - 005H",
+            "Bio Content": "",
+            "Infusion": "√",
+            "HLU": "√",
+            "Wet-layup": "√",
+            "Light RTM": "√",
+            "FW": "√",
+            "Pultrusion": "",
+            "Bonding": "",
+            "Foaming": "",
+            "Insulation": "",
+            "SMC": "",
+            "Mix Ratio": "100:26",
+            "Mix Viscosity mPa·s": "200 - 400",
+            "Pot Life": ">240 (100 gms)",
+            "Tg °C": "75 - 90",
+            "Features": "Slow reacting system, with longer pot life for Infusion, RTM, Lay-up, Filament Winding, etc."
+        },
+        {
+            "Recyclamine System": "Recyclamine 008R - 026H",
+            "Bio Content": "",
+            "Infusion": "√",
+            "HLU": "√",
+            "Wet-layup": "√",
+            "Light RTM": "√",
+            "FW": "√",
+            "Pultrusion": "",
+            "Bonding": "",
+            "Foaming": "",
+            "Insulation": "",
+            "SMC": "",
+            "Mix Ratio": "100:39",
+            "Mix Viscosity mPa·s": "650 - 850",
+            "Pot Life": "25 - 35 (100 gms)",
+            "Tg °C": "55 - 65",
+            "Features": "Low initial mix viscosity, enables fast & complete impregnation of reinforcing fibers such as glass, carbon and poly-aramid."
+        },
+        {
+            "Recyclamine System": "Recyclamine 001RG - 013H3",
+            "Bio Content": "√",
+            "Infusion": "√",
+            "HLU": "",
+            "Wet-layup": "√",
+            "Light RTM": "√",
+            "FW": "√",
+            "Pultrusion": "",
+            "Bonding": "",
+            "Foaming": "",
+            "Insulation": "",
+            "SMC": "",
+            "Mix Ratio": "100:28",
+            "Mix Viscosity mPa·s": "250 - 350",
+            "Pot Life": "400 - 600 (100 gms @30°C)",
+            "Tg °C": "100 - 110",
+            "Features": "Bio-based resin system with ultra slow reactivity and low initial mix viscosity that enables fast & complete impregnation of reinforcing fibers."
+        },
+        {
+            "Recyclamine System": "Recyclamine 005RG - 012H",
+            "Bio Content": "√",
+            "Infusion": "√",
+            "HLU": "",
+            "Wet-layup": "√",
+            "Light RTM": "",
+            "FW": "√",
+            "Pultrusion": "√",
+            "Bonding": "",
+            "Foaming": "",
+            "Insulation": "",
+            "SMC": "",
+            "Mix Ratio": "100:40",
+            "Mix Viscosity mPa·s": "2000 - 3000",
+            "Pot Life": ">900 (100 gms)",
+            "Tg °C": "95 - 105",
+            "Features": "Designed for Prepreg & SMC; also suitable for other processes due to its processing properties and semi-latent characteristics."
+        },
+        {
+            "Recyclamine System": "Recyclamine 018R - 027H",
+            "Bio Content": "",
+            "Infusion": "√",
+            "HLU": "√",
+            "Wet-layup": "√",
+            "Light RTM": "√",
+            "FW": "",
+            "Pultrusion": "",
+            "Bonding": "",
+            "Foaming": "",
+            "Insulation": "",
+            "SMC": "",
+            "Mix Ratio": "100:30",
+            "Mix Viscosity mPa·s": "2200 - 2600",
+            "Pot Life": "45 - 55 (100 gms)",
+            "Tg °C": "80 - 90",
+            "Features": "Ambient curing system designed for Compression Molding Process."
+        },
+        {
+            "Recyclamine System": "Recyclamine 023R - 031H",
+            "Bio Content": "",
+            "Infusion": "√",
+            "HLU": "√",
+            "Wet-layup": "√",
+            "Light RTM": "√",
+            "FW": "√",
+            "Pultrusion": "",
+            "Bonding": "",
+            "Foaming": "",
+            "Insulation": "",
+            "SMC": "",
+            "Mix Ratio": "100:39",
+            "Mix Viscosity mPa·s": "800 - 1200",
+            "Pot Life": "15 - 30 (100 gms)",
+            "Tg °C": "60 - 70",
+            "Features": "Low initial mix viscosity, enables fast & complete impregnation of reinforcing fibers such as glass, carbon and poly-aramid."
+        }
+        ]
+
+    }
+
+},

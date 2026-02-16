@@ -1,0 +1,32 @@
+import { Link } from 'react-router-dom';
+
+interface KnowMoreProps {
+    to: string; 
+    title?: string; 
+    color: string;
+    target?: string;
+}
+
+
+
+const KnowMore: React.FC<KnowMoreProps> = ({ to, color, title = 'Know More', target }) => {
+    return (
+        <div className="knowmore">
+            <Link to={to} className={color} target={target}>
+            <span>
+                {title} 
+                <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M1.07692 10L0 8.9231L7.3846 1.53846H0.76923V0H10V9.2308H8.4615V2.61538L1.07692 10Z" fill="#0097D6" />
+                </svg>
+                </span>
+
+                {/* <img src={iconSrc} alt={iconAlt} /> */}
+            </Link>
+        </div>
+    );
+};
+
+
+
+export default KnowMore;
+

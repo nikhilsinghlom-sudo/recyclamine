@@ -34,7 +34,7 @@
         },
         {
           "key": "Content-Security-Policy",
-          "value": "default-src 'self'; object-src 'none';"
+          "value": "default-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'none';"
         }
       ]
     }

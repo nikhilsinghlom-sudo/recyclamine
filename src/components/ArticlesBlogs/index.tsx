@@ -204,7 +204,8 @@ const ArticlesBlogs: React.FC = () => {
                 </div>
                 <div className="articlesblogs-card-desc">
                   <h6> February 2026</h6>
-                  <h5>Conversation with Dr. Bharat Singh</h5>
+                  <h5 className="h5">Conversation with <br />Dr. Bharat Singh</h5>
+                  <h6>Head, Recyclamine & Regulatory Affairs, Aditya Birla Advanced Materials</h6>
                   <p>
                     Recyclamine is often cited as a disruptive innovation in epoxy chemistry. From a technical standpoint, what makes it fundamentally different from conventional wind-blade epoxies?
                   </p>
@@ -223,6 +224,8 @@ const ArticlesBlogs: React.FC = () => {
               </Link>
             </div>
           </div>
+
+          
         </div>
       </div>
     </section>

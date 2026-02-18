@@ -5085,15 +5085,20 @@ footer {
       height: auto;
       margin-bottom: 2rem;
     }
+    .h5{
+      margin-bottom: 2px;
+    }
 
     a {
       height: 100%;
       display: flex;
       flex-direction: column;
+      margin-bottom: 2rem;
     }
 
     &-desc {
       padding: 1.5rem 1.5rem 0;
+      
 
       h6 {
         @include font-gotham("medium");
@@ -5102,6 +5107,7 @@ footer {
 
       h5 {
         @include font-gotham("medium");
+
       }
 
       p {

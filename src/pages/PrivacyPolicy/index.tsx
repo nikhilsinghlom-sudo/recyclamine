@@ -110,7 +110,7 @@ export default function PrivacyPolicy() {
                                 </article>
                                 <article>
                                     <h5>QUESTIONS AND UPDATES</h5>
-                                    <p>If you have any questions or suggestions about our privacy practices, please feel free to contact us at:
+                                    <p>If you have any questions or suggestions about our privacy practices, please feel free to contact us at: <br />
                                         <strong>Name :</strong> Mr Rakesh Goyal<br />
                                         <strong>Address :</strong> Map Ta Phut Industrial Estate,<br />
                                         No - 2, 1-5 Road, Tambol Map Ta Phut,<br />

@@ -40,7 +40,7 @@ export default function Footer() {
                                     <li><Link to={'/articles-and-blogs'}>Articles and Blogs</Link></li>
                                     <li><Link to={'/events'}>Events</Link></li>
                                     <li><Link to={'/contact-us'}>Contact Us</Link></li>
-                                    <li><Link to={'https://bit.ly/RCY0225'} target='_blank'>Download Brochure</Link></li>
+                                    <li><Link to={`${process.env.PUBLIC_URL}/RCY0225.pdf`} target='_blank'>Download Brochure</Link></li>
                                 </ul>
                             </div>
                             {/* <div className="col">
@@ -71,6 +71,7 @@ export default function Footer() {
                         <li>
                             <ul>
                                 <li><Link to={'privacy-policy'}>Privacy Policy</Link></li>
+                                <li><Link to={'cookies'}>Cookies Policy</Link></li>
                             
                                 <li><Link to={'disclaimer'}>Disclaimer</Link></li>
                                 {/* <li>|</li>

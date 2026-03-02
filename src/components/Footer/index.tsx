@@ -40,7 +40,7 @@ export default function Footer() {
                                     <li><Link to={'/articles-and-blogs'}>Articles and Blogs</Link></li>
                                     <li><Link to={'/events'}>Events</Link></li>
                                     <li><Link to={'/contact-us'}>Contact Us</Link></li>
-                                    <li><Link to={`${process.env.PUBLIC_URL}/RCY0225.pdf`} target='_blank'>Download Brochure</Link></li>
+                                    <li><Link to={`${process.env.PUBLIC_URL}/RecyclamineBrochure_Final_26-02-2026.pdf`} target='_blank'>Download Brochure</Link></li>
                                 </ul>
                             </div>
                             {/* <div className="col">

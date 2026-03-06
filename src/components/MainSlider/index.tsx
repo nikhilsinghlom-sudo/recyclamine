@@ -56,12 +56,12 @@ const MainSlider = () => {
                 effect="fade"
                 loop={true}
                 onSlideChange={handleSlideChange}
-            >
+            >        
                 <SwiperSlide>
                     <div className="video-wrapper">
                         <video
                             src={`${process.env.PUBLIC_URL}/video/Recyclamine AV 04 Mar 24 Long Ver Without VO.mp4`}
-                            poster={`${process.env.PUBLIC_URL}/images/First.png`}
+                            poster={`${process.env.PUBLIC_URL}/images/first.png`}
 
                             playsInline
                             preload="metadata"

@@ -4348,7 +4348,7 @@ footer {
     padding: 0rem;
     border-radius: 20px;
     box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0);
-    width: 206%;
+    width:100%;
 
     @include respond-to(medium) {
       margin-top: 2rem;
@@ -4418,6 +4418,7 @@ footer {
 }
 
 .modal-content {
+  position: relative;
   background: rgb(255, 255, 255);
   border-radius: 12px;
   width: 820px;
@@ -4432,29 +4433,26 @@ footer {
   }
 }
 
+
 .close-btn {
+  position: absolute;
+  top: 5px;
+  right: 12px;
+  z-index: 99999;
   background-color: #fafafa;
   color: #000000;
   border: none;
-  height: 15px;
-  width: 15px;
-  font-size: 12px;
+
+  height: 22px;
+  width: 22px;
+
+  font-size: 14px;
+  line-height: 22px;
+  text-align: center;
 
   cursor: pointer;
-  float: right;
-  border-radius: 100%;
-  margin-left: 96%;
-  margin-top: 8px;
-  @include respond-to(medium) {
-    margin-left: 94%;
-    margin-top: 10px;
-  }
-  @include respond-to(small) {
-    margin-left: 92%;
-    margin-top: 9px;
-  }
+  border-radius: 50%;
 }
-
 .footer-links-btn {
   background: none;
   border: none;
@@ -4462,6 +4460,7 @@ footer {
   color: inherit;
   cursor: pointer;
   font: inherit;
+  
 }
 
 .contactlinks {

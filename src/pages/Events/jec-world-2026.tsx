@@ -1,18 +1,18 @@
 import React from "react";
 import InsideHeader from "../../components/InsideHeader";
-import PlyrPlayer from "../../components/VideoPlayer";
+// import PlyrPlayer from "../../components/VideoPlayer";
 import { Link } from "react-router-dom";
 // import { useNavigate } from 'react-router-dom';
 
 const EventDetail: React.FC = () => {
-  const options: Plyr.Options = {
-    controls: ["play-large"], // Custom controls
-    settings: [], // Settings options
-    autoplay: false, // Autoplay option
-    // muted: false, // Mute video initially
-    // clickToPlay: true
-    hideControls: true,
-  };
+//   const options: Plyr.Options = {
+//     controls: ["play-large"], // Custom controls
+//     settings: [], // Settings options
+//     autoplay: false, // Autoplay option
+//     // muted: false, // Mute video initially
+//     // clickToPlay: true
+//     hideControls: true,
+//   };
 
   // const navigate = useNavigate();
 

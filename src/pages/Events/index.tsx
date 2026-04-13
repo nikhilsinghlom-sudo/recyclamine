@@ -20,6 +20,39 @@ const EventsList: React.FC = () => {
           <div className="events-listing-header">
             <h3>Upcoming Events</h3>
           </div>
+
+          <section className="event-list-sec ">
+            <div className="row gx-lg-5">
+              <div className="col-12 col-sm-12 col-md-12 col-lg-6">
+                <div className="event-list-img">
+                  <img
+                    src={`${process.env.PUBLIC_URL}/images/events/upcoming/Windergy Hamburg.jpg`}
+                    alt=""
+                  />
+                </div>
+              </div>
+              <div className="col-12 col-sm-12 col-md-12 col-lg-6">
+                <div className="event-list-desc">
+                  <h6 className="date">
+                    <span>
+                      22<sup>nd</sup> - 26<sup>th</sup> September 2026
+                    </span>
+                  </h6>
+                  <h5>Windergy Hamburg 2026</h5>
+                  <h6>Germany</h6>
+                  <KnowMore
+                    to="https://www.windenergyhamburg.com/?gad_source=1"
+                    title="Know More"
+                    color="blue"
+                    target="_blank"
+                  />
+                </div>
+              </div>
+            </div>
+          </section>
+          <div className="events-listing-header">
+            <h3>Past Events</h3>
+          </div>
           <section className="event-list-sec pastevnt">
             <div className="row gx-lg-5">
               <div className="col-12 col-sm-12 col-md-12 col-lg-6">
@@ -50,40 +83,6 @@ const EventsList: React.FC = () => {
               </div>
             </div>
           </section>
-          <section className="event-list-sec ">
-            <div className="row gx-lg-5">
-              <div className="col-12 col-sm-12 col-md-12 col-lg-6">
-                <div className="event-list-img">
-                  <img
-                    src={`${process.env.PUBLIC_URL}/images/events/upcoming/Windergy Hamburg.jpg`}
-                    alt=""
-                  />
-                </div>
-              </div>
-              <div className="col-12 col-sm-12 col-md-12 col-lg-6">
-                <div className="event-list-desc">
-                  <h6 className="date">
-                    <span>
-                      22<sup>nd</sup> - 26<sup>th</sup> September 2026
-                    </span>
-                  </h6>
-                  <h5>Windergy Hamburg 2026</h5>
-                  <h6>Germany</h6>
-                  <KnowMore
-                    to="https://www.windenergyhamburg.com/?gad_source=1"
-                    title="Know More"
-                    color="blue"
-                    target="_blank"
-                  />
-
-
-                </div>
-              </div>
-            </div>
-          </section>
-          <div className="events-listing-header">
-            <h3>Past Events</h3>
-          </div>
 
           <section className="event-list-sec ">
             <div className="row gx-lg-5">

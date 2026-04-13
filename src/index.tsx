@@ -1,8 +1,7 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import reportWebVitals from './reportWebVitals';
-import ScrollToTop from './components/ScrollToTop';
-
+import React from "react";
+import ReactDOM from "react-dom/client";
+import reportWebVitals from "./reportWebVitals";
+import ScrollToTop from "./components/ScrollToTop";
 
 // Bootstrap CSS
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -12,20 +11,19 @@ import "bootstrap/dist/js/bootstrap.bundle.min";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 import { CommonProvider } from "./contexts/commonContext";
-import Layout from './Layout';
+import Layout from "./Layout";
 
 // Pages
 import Home from "./pages/Home";
-import FourZeroFour from './pages/404';
+import FourZeroFour from "./pages/404";
 
 // About pages
 
 // import TheLegacy from './pages/About/TheLegacy';
 // import TheGenesisofRecyclamine from './pages/About/TheGenesisofRecyclamine';
 // import OurPhilosophyAndValues from './pages/About/OurPhilosophyAndValues';
-import About from './pages/About';
+import About from "./pages/About";
 // import OurPresence from './pages/About/OurPresence';
-
 
 // The Recyclamine Revolution
 
@@ -34,25 +32,20 @@ import About from './pages/About';
 
 // import ScrollToTop from './components/ScrollToTop';
 
-
-
-
 // Applications
 
-import Applications from './pages/Applications';
-import ApplicationsDetail from './pages/Applications/detail';
+import Applications from "./pages/Applications";
+import ApplicationsDetail from "./pages/Applications/detail";
 // import ApplicationsDetailSkis from './pages/Applications/skis';
-import Contact from './pages/Contact';
-
-
+import Contact from "./pages/Contact";
 
 // import Faq from './pages/Faq';
-import PrivacyPolicy from './pages/PrivacyPolicy';
-import Disclaimer from './pages/Disclaimer';
+import PrivacyPolicy from "./pages/PrivacyPolicy";
+import Disclaimer from "./pages/Disclaimer";
 
 // Sustainability
 
-import Sustainability from './pages/Sustainability';
+import Sustainability from "./pages/Sustainability";
 
 // CaseStudies
 
@@ -61,7 +54,6 @@ import Sustainability from './pages/Sustainability';
 // Resources
 
 // import Resources from './pages/Resources';
-
 
 // Collaboration With Universities
 
@@ -74,61 +66,60 @@ import Sustainability from './pages/Sustainability';
 
 // Blog and stories
 
-import SuccessStories from './pages/Success-Stories';
-import TheGunSails from './pages/Success-Stories/the-gun-sails-von-osterhause';
-import Ncc from './pages/Success-Stories/ncc';
+import SuccessStories from "./pages/Success-Stories";
+import TheGunSails from "./pages/Success-Stories/the-gun-sails-von-osterhause";
+import Ncc from "./pages/Success-Stories/ncc";
 // import Sgre from './pages/Success-Stories/sgre';
-import Cobra from './pages/Success-Stories/cobra-abg-collaboration';
-import HanyangUniversity from './pages/Success-Stories/hanyang-university-korea';
+import Cobra from "./pages/Success-Stories/cobra-abg-collaboration";
+import HanyangUniversity from "./pages/Success-Stories/hanyang-university-korea";
 
 // import TechnologyHowItWorks from './pages/TheRecyclamineRevolution/TechnologyHowItWorks';
 
-import RecyclamineTechnology from './pages/TheRecyclamineTechnology';
+import RecyclamineTechnology from "./pages/TheRecyclamineTechnology";
 
 // Events
-import Events from './pages/Events';
-import JecWorld2025 from './pages/Events/jec-world-2025';
-import Camx from './pages/Events/camx-the-composites-and-advanced-materials-expo';
-import Windergy from './pages/Events/windergy-india-2024';
-
+import Events from "./pages/Events";
+import JecWorld2025 from "./pages/Events/jec-world-2025";
+import Camx from "./pages/Events/camx-the-composites-and-advanced-materials-expo";
+import Windergy from "./pages/Events/windergy-india-2024";
+import JecWorld2026 from "./pages/Events/jec-world-2026";
 
 // ArticlesAndBlogs
 
-import ArticlesAndBlogsIndex from './pages/ArticlesAndBlogs';
-
-
+import ArticlesAndBlogsIndex from "./pages/ArticlesAndBlogs";
 
 // Language
 
 // import Lang from './pages/lang';
 
-import ScrollToHashElement from './components/ScrollToHashElement';
-
-
+import ScrollToHashElement from "./components/ScrollToHashElement";
+import CookiesPage from "./pages/CookiesPage";
+import LeadCapture from "./components/LeadCapture";
 
 const root = ReactDOM.createRoot(
-  document.getElementById('root') as HTMLElement
+  document.getElementById("root") as HTMLElement,
 );
-
 
 root.render(
   <React.StrictMode>
     <CommonProvider>
       <BrowserRouter>
-        <ScrollToHashElement /> 
-        <ScrollToTop/>
-       
+        <ScrollToHashElement />
+        <ScrollToTop />
+
         <Routes>
           {/* Define Layout as a wrapper for all pages */}
-          
+
           <Route element={<Layout />}>
             <Route index element={<Home />} />
+            <Route path="/cookies" element={<CookiesPage />} />
             {/* ABOUT */}
             <Route path="recyclamine-overview" element={<About />} />
 
-            <Route path="the-recyclamine-technology" element={<RecyclamineTechnology />} />
-
-          
+            <Route
+              path="the-recyclamine-technology"
+              element={<RecyclamineTechnology />}
+            />
 
             {/* <Route path="about-us/our-genesis-philosophy-and-values" element={<TheGenesisofRecyclamine />} /> */}
             {/* <Route path="about-us/the-legacy-of-abc-and-abam" element={<TheLegacy />} /> */}
@@ -139,19 +130,19 @@ root.render(
             {/* <Route path="the-recyclamine-revolution/the-technology-and-how-it-works" element={<TechnologyHowItWorks />} /> */}
             {/* <Route path="the-recyclamine-revolution/why-recyclamine" element={<WhyRecyclamine />} /> */}
 
-
-            <Route path='contact-us' element={<Contact />}/>
+            <Route path="contact-us" element={<Contact />} />
             {/* <Route path='faq' element={<Faq />} /> */}
-            <Route path='privacy-policy' element={<PrivacyPolicy />} />
-            <Route path='disclaimer' element={<Disclaimer />} />
+            <Route path="privacy-policy" element={<PrivacyPolicy />} />
+            <Route path="disclaimer" element={<Disclaimer />} />
+            <Route path="LeadCapture" element={<LeadCapture />} />
 
             {/* Applications */}
 
-            <Route path='industries' element={<Applications/>} />
+            <Route path="industries" element={<Applications />} />
             <Route path="/industries/:id" element={<ApplicationsDetail />} />
 
             {/* Sustainability */}
-            <Route path='sustainability' element={<Sustainability/>} />
+            <Route path="sustainability" element={<Sustainability />} />
 
             {/* CaseStudies */}
 
@@ -174,36 +165,54 @@ root.render(
 
             {/* Blog and stories */}
 
-            <Route path='/success-stories/' element={<SuccessStories />} />
-            <Route path='/success-stories/the-gun-sails-von-osterhausen' element={<TheGunSails />} />
-            <Route path='/success-stories/ncc-uk-and-aditya-birla-advanced-materials' element={<Ncc />} />
+            <Route path="/success-stories/" element={<SuccessStories />} />
+            <Route
+              path="/success-stories/the-gun-sails-von-osterhausen"
+              element={<TheGunSails />}
+            />
+            <Route
+              path="/success-stories/ncc-uk-and-aditya-birla-advanced-materials"
+              element={<Ncc />}
+            />
             {/* <Route path='/success-stories/siemens-gamesa-renewable-energy-x-aditya-birla-advanced-materials' element={<Sgre />} /> */}
-            <Route path='/success-stories/cobra-international-x-aditya-birla-advanced-materials-collaboration' element={<Cobra />} />
-            <Route path='/success-stories/hanyang-university-korea-and-aditya-birla-advanced-materials-collaboration' element={<HanyangUniversity />} />
+            <Route
+              path="/success-stories/cobra-international-x-aditya-birla-advanced-materials-collaboration"
+              element={<Cobra />}
+            />
+            <Route
+              path="/success-stories/hanyang-university-korea-and-aditya-birla-advanced-materials-collaboration"
+              element={<HanyangUniversity />}
+            />
 
             {/* Events */}
 
-            <Route path='/events' element={<Events />} />
-            <Route path='/events/jec-world-2025' element={<JecWorld2025 />} />
-            <Route path='/events/camx-the-composites-and-advanced-materials-expo' element={<Camx />} />
-            <Route path='/events/windergy-india-2024-wind-power-forever-6th-international-trade-fair-and-conference' element={<Windergy/>}></Route>
-
+            <Route path="/events" element={<Events />} />
+            <Route path="/events/jec-world-2025" element={<JecWorld2025 />} />
+            <Route path="/events/jec-world-2026" element={<JecWorld2026 />} />
+            <Route
+              path="/events/camx-the-composites-and-advanced-materials-expo"
+              element={<Camx />}
+            />
+            <Route
+              path="/events/windergy-india-2024-wind-power-forever-6th-international-trade-fair-and-conference"
+              element={<Windergy />}
+            ></Route>
 
             {/* ArticlesAndBlogsIndex */}
 
-            <Route path='/articles-and-blogs' element={<ArticlesAndBlogsIndex />} />
-          
+            <Route
+              path="/articles-and-blogs"
+              element={<ArticlesAndBlogsIndex />}
+            />
 
             {/* ---------------Test---------------- */}
 
             {/* <Route path='lang' element={<Lang/>}/> */}
-
-
           </Route>
         </Routes>
       </BrowserRouter>
     </CommonProvider>
-  </React.StrictMode>
+  </React.StrictMode>,
 );
 
 // If you want to start measuring performance in your app, pass a function

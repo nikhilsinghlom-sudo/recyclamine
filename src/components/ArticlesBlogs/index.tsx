@@ -7,6 +7,53 @@ const ArticlesBlogs: React.FC = () => {
       <div className="container">
         <h3>Articles and Blogs</h3>
         <div className="row gy-4">
+          <div className="col-12 col-sm-12 col-md-12 col-lg-3">
+            <div className="articlesblogs-card">
+              <Link
+                target="_blank"
+                to={`${process.env.PUBLIC_URL}/Amit Dixit.pdf`}
+              >
+                <div className="articlesblogs-card-image">
+                  <img
+                    src={`${process.env.PUBLIC_URL}/images/articles-and-blogs/Leitwind LinkedIn Post_Final.jp`}
+                    alt="Recyclable Type IV hydrogen storage pressure vessel for fuel cell electric vehicles"
+                  />
+                </div>
+                <div className="articlesblogs-card-desc">
+                  <h6>March 2026</h6>
+                  <h5>
+                    Composite rebar for durable and sustainable concrete
+                    infrastructure
+                  </h5>
+                  <p>
+                    The long-term performance of reinforced concrete structures
+                    is frequently governed by the durability of the embedded
+                    reinforcement rather than by the compressive strength of
+                    concrete itself.
+                  </p>
+                </div>
+                <ul className="articlesblogs-card-ftr">
+                  <li>
+                    <hr />
+                  </li>
+                  <li>
+                    <img
+                      src={`${process.env.PUBLIC_URL}/images/icons/external-link.svg`}
+                      alt="External Link"
+                    />
+                  </li>
+                </ul>
+              </Link>
+            </div>
+          </div>
+
+
+
+
+
+
+
+
 
           <div className="col-12 col-sm-12 col-md-12 col-lg-3">
             <div className="articlesblogs-card">
@@ -23,13 +70,15 @@ const ArticlesBlogs: React.FC = () => {
                 <div className="articlesblogs-card-desc">
                   <h6>March 2026</h6>
                   <h5>
-                    Leitwind adopts Recyclamine® technology for the new LS20.X wind
-                    turbine blade, marking a major step toward circular composites
+                    Leitwind adopts Recyclamine® technology for the new LS20.X
+                    wind turbine blade, marking a major step toward circular
+                    composites
                   </h5>
                   <p>
-                    Aditya Birla Advanced Materials is pleased to announce that Leitwind, a leading
-                    manufacturer of wind turbine systems, has selected our Recyclamine® recyclable
-                    epoxy system for the newest generation of its LS20.X wind turbine blade.
+                    Aditya Birla Advanced Materials is pleased to announce that
+                    Leitwind, a leading manufacturer of wind turbine systems,
+                    has selected our Recyclamine® recyclable epoxy system for
+                    the newest generation of its LS20.X wind turbine blade.
                   </p>
                 </div>
                 <ul className="articlesblogs-card-ftr">
@@ -61,10 +110,19 @@ const ArticlesBlogs: React.FC = () => {
                 </div>
                 <div className="articlesblogs-card-desc">
                   <h6> February 2026</h6>
-                  <h5 className="h5">Conversation with <br />Dr. Bharat Singh</h5>
-                  <h6>Head, Recyclamine & Regulatory Affairs, Aditya Birla Advanced Materials</h6>
+                  <h5 className="h5">
+                    Conversation with <br />
+                    Dr. Bharat Singh
+                  </h5>
+                  <h6>
+                    Head, Recyclamine & Regulatory Affairs, Aditya Birla
+                    Advanced Materials
+                  </h6>
                   <p>
-                    Recyclamine is often cited as a disruptive innovation in epoxy chemistry. From a technical standpoint, what makes it fundamentally different from conventional wind-blade epoxies?
+                    Recyclamine is often cited as a disruptive innovation in
+                    epoxy chemistry. From a technical standpoint, what makes it
+                    fundamentally different from conventional wind-blade
+                    epoxies?
                   </p>
                 </div>
                 <ul className="articlesblogs-card-ftr">
@@ -264,9 +322,6 @@ const ArticlesBlogs: React.FC = () => {
               </Link>
             </div>
           </div>
-
-
-
         </div>
       </div>
     </section>
@@ -274,4 +329,3 @@ const ArticlesBlogs: React.FC = () => {
 };
 
 export default ArticlesBlogs;
-

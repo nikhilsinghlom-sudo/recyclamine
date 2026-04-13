@@ -93,7 +93,7 @@ import ArticlesAndBlogsIndex from "./pages/ArticlesAndBlogs";
 // import Lang from './pages/lang';
 
 import ScrollToHashElement from "./components/ScrollToHashElement";
-import CookiesPage from "./pages/CookiesPage";
+// import CookiesPage from "./pages/CookiesPage";
 import LeadCapture from "./components/LeadCapture";
 
 const root = ReactDOM.createRoot(
@@ -112,7 +112,7 @@ root.render(
 
           <Route element={<Layout />}>
             <Route index element={<Home />} />
-            <Route path="/cookies" element={<CookiesPage />} />
+            {/* <Route path="/cookies" element={<CookiesPage />} /> */}
             {/* ABOUT */}
             <Route path="recyclamine-overview" element={<About />} />
 

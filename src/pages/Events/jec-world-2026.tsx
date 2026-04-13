@@ -47,12 +47,7 @@ const EventDetail: React.FC = () => {
                   <div className="maintitle">
                     <h4>JEC WORLD 2026</h4>
                     <p>
-                      JEC World 2026 has been nothing short of inspiring!
-                      Recyclamine continues to make waves by showcasing our
-                      sustainable solutions that are transforming the composites
-                      industry. We’ve connected with more innovators, shared
-                      ideas, and collaborated on advancing eco-friendly
-                      manufacturing practices.
+                      JEC World 2026 has been an inspiring platform for innovation and collaboration. Recyclamine continues to lead the conversation on sustainability, showcasing solutions that are reshaping the future of composites through stronger partnerships and shared ideas.
                     </p>
                   </div>
                 </aside>

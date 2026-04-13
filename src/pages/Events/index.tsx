@@ -74,10 +74,9 @@ const EventsList: React.FC = () => {
                   <h6>PARIS-NORD VILLEPINTE</h6>
                   <p>Stall position- 6M05</p>
                   <KnowMore
-                    to="https://www.jec-world.events/"
+                    to="/events/jec-world-2026"
                     title="View Event Details"
                     color="blue"
-                    target="_blank"
                   />
                 </div>
               </div>

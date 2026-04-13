@@ -53,31 +53,31 @@ const EventDetail: React.FC = () => {
                 </aside>
                 <aside>
                   <img
-                    src={`${process.env.PUBLIC_URL}/images/events/jec-world-2026/jec-world-2026-1.jpeg`}
+                    src={`${process.env.PUBLIC_URL}/images/events/jec-world-2026-1.jpeg`}
                     alt="JEC WORLD 2026"
                   />
                 </aside>
                 <aside>
                   <img
-                    src={`${process.env.PUBLIC_URL}/images/events/jec-world-2026/jec-world-2026-2.jpeg`}
+                    src={`${process.env.PUBLIC_URL}/images/events/jec-world-2026-2.jpeg`}
                     alt="JEC WORLD 2026"
                   />
                 </aside>
                 <aside>
                   <img
-                    src={`${process.env.PUBLIC_URL}/images/events/jec-world-2026/jec-world-2026-3.jpeg`}
+                    src={`${process.env.PUBLIC_URL}/images/events/jec-world-2026-3.jpeg`}
                     alt="JEC WORLD 2026"
                   />
                 </aside>
                 <aside>
                   <img
-                    src={`${process.env.PUBLIC_URL}/images/events/jec-world-2026/jec-world-2026-4.jpeg`}
+                    src={`${process.env.PUBLIC_URL}/images/events/jec-world-2026-4.jpeg`}
                     alt="JEC WORLD 2026"
                   />
                 </aside>
                 <aside>
                   <img
-                    src={`${process.env.PUBLIC_URL}/images/events/jec-world-2026/jec-world-2026-5.jpeg`}
+                    src={`${process.env.PUBLIC_URL}/images/events/jec-world-2026-5.jpeg`}
                     alt="JEC WORLD 2026"
                   />
                 </aside>

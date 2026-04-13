@@ -81,6 +81,24 @@ const EventDetail: React.FC = () => {
                     alt="JEC WORLD 2026"
                   />
                 </aside>
+                <aside>
+                  <img
+                    src={`${process.env.PUBLIC_URL}/images/events/jec-world-2026-6.jpg`}
+                    alt="JEC WORLD 2026"
+                  />
+                </aside>
+                <aside>
+                  <img
+                    src={`${process.env.PUBLIC_URL}/images/events/jec-world-2026-7.jpeg`}
+                    alt="JEC WORLD 2026"
+                  />
+                </aside>
+                <aside>
+                  <img
+                    src={`${process.env.PUBLIC_URL}/images/events/jec-world-2026-8.jpg`}
+                    alt="JEC WORLD 2026"
+                  />
+                </aside>
                 {/* <aside>
                   <PlyrPlayer
                     videoUrl={`${process.env.PUBLIC_URL}/video/events/jec-world-2025/Holy x Recyclamine updated.mp4`}

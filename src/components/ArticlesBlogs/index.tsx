@@ -15,7 +15,7 @@ const ArticlesBlogs: React.FC = () => {
               >
                 <div className="articlesblogs-card-image">
                   <img
-                    src={`${process.env.PUBLIC_URL}/images/articles-and-blogs/Leitwind LinkedIn Post_Final.jp`}
+                    src={`${process.env.PUBLIC_URL}/images/articles-and-blogs/article thumbnail.png`}
                     alt="Recyclable Type IV hydrogen storage pressure vessel for fuel cell electric vehicles"
                   />
                 </div>

@@ -53,7 +53,7 @@ const EventDetail: React.FC = () => {
                       highlighting how we are enabling more sustainable
                       practices in the industry. <br />
                       <br />
-                      Rajesh Balakrishnan, CEO, Aditya Birla Group, shared
+                      Rajesh Balakrishnan, CEO, Aditya Birla Advanced Materials, shared
                       insights on the importance of collaboration across the
                       value chain to close the loop on circular composites. He
                       stressed that success in sustainability requires bringing

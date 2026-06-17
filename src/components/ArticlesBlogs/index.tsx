@@ -7,6 +7,49 @@ const ArticlesBlogs: React.FC = () => {
       <div className="container">
         <h3>Articles and Blogs</h3>
         <div className="row gy-4">
+
+
+
+
+
+          <div className="col-12 col-sm-12 col-md-12 col-lg-3">
+                      <div className="articlesblogs-card">
+                        <Link
+                          target="_blank"
+                          to={`${process.env.PUBLIC_URL}/articles-and-blogs/aditya1.pdf`}
+                        >
+                          <div className="articlesblogs-card-image">
+                            <img
+                              src={`${process.env.PUBLIC_URL}/images/articles-and-blogs/Balancing performance, scale and circularity to guarantee recyclability in the future.png`}
+                              alt="Recyclable Type IV hydrogen storage pressure vessel for fuel cell electric vehicles"
+                            />
+                          </div>
+                          <div className="articlesblogs-card-desc">
+                            <h6>June 2026</h6>
+                            <h5>
+                              Balancing performance, scale and circularity to guarantee recyclability in the future
+                            </h5>
+                            <p>
+                              Of all the companies involved in composite applications, Aditya Birla's Advanced Materials division is the one that is most closely engaged with the industry.
+                            </p>
+                          </div>
+                          <ul className="articlesblogs-card-ftr">
+                            <li>
+                              <hr />
+                            </li>
+                            <li>
+                              <img
+                                src={`${process.env.PUBLIC_URL}/images/icons/external-link.svg`}
+                                alt="External Link"
+                              />
+                            </li>
+                          </ul>
+                        </Link>
+                      </div>
+                    </div>
+
+
+
           <div className="col-12 col-sm-12 col-md-12 col-lg-3">
             <div className="articlesblogs-card">
               <Link

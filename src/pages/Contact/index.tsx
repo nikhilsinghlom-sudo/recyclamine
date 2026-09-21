@@ -108,8 +108,8 @@ const ContactForm: React.FC = () => {
                                 <FadeUp duration={1} delay={0.2} threshold={0.2}>
                                     <h4>Contact Us</h4>
                                     <ul>
-                                    <li>For customer queries and collaboration opportunities, please contact: <Link to={"mailto:scott.m@adityabirla.com"}>scott.m@adityabirla.com</Link></li>
-                                    <li>For any other queries, please write to: <Link to={"mailto:recyclamine@adityabirla.com"}>recyclamine@adityabirla.com</Link></li>
+                                    <li>For customer queries and collaboration opportunities, please contact: <Link to={"mailto:recyclamine@adityabirla.com"}>recyclamine@adityabirla.com</Link></li>
+                                    {/* <li>For any other queries, please write to: <Link to={"mailto:recyclamine@adityabirla.com"}>recyclamine@adityabirla.com</Link></li> */}
                                     {/* <li>Nominated Contacts and headshots for Europe, US and Asia</li> */}
                                     </ul>
                                     {/* <p>We would love to hear from you! Please fill out the form and a person from your nearest office will get back to you.</p>

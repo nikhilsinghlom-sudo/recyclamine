@@ -7,48 +7,85 @@ const ArticlesBlogs: React.FC = () => {
       <div className="container">
         <h3>Articles and Blogs</h3>
         <div className="row gy-4">
-
-
-
-
-
           <div className="col-12 col-sm-12 col-md-12 col-lg-3">
-                      <div className="articlesblogs-card">
-                        <Link
-                          target="_blank"
-                          to={`${process.env.PUBLIC_URL}/articles-and-blogs/aditya1.pdf`}
-                        >
-                          <div className="articlesblogs-card-image">
-                            <img
-                              src={`${process.env.PUBLIC_URL}/images/articles-and-blogs/Balancing performance, scale and circularity to guarantee recyclability in the future.png`}
-                              alt="Recyclable Type IV hydrogen storage pressure vessel for fuel cell electric vehicles"
-                            />
-                          </div>
-                          <div className="articlesblogs-card-desc">
-                            <h6>June 2026</h6>
-                            <h5>
-                              Balancing performance, scale and circularity to guarantee recyclability in the future
-                            </h5>
-                            <p>
-                              Of all the companies involved in composite applications, Aditya Birla's Advanced Materials division is the one that is most closely engaged with the industry.
-                            </p>
-                          </div>
-                          <ul className="articlesblogs-card-ftr">
-                            <li>
-                              <hr />
-                            </li>
-                            <li>
-                              <img
-                                src={`${process.env.PUBLIC_URL}/images/icons/external-link.svg`}
-                                alt="External Link"
-                              />
-                            </li>
-                          </ul>
-                        </Link>
-                      </div>
-                    </div>
-
-
+            <div className="articlesblogs-card">
+              <Link
+                target="_blank"
+                to={`${process.env.PUBLIC_URL}/articles-and-blogs/advance.pdf`}
+              >
+                <div className="articlesblogs-card-image">
+                  <img
+                    src={`${process.env.PUBLIC_URL}/images/advance.png`}
+                    alt="Advanced Materials, Aditya Birla Group and Plaswire Ltd. sign Memorandum of Understanding"
+                  />
+                </div>
+                <div className="articlesblogs-card-desc">
+                  <h6>September 2026</h6>
+                  <h5>
+                    Advanced Materials, Aditya Birla Group and Plaswire Ltd.
+                    sign Memorandum of Understanding to develop global composite
+                    waste recycling solutions
+                  </h5>
+                  <p>
+                    The Advanced Materials business of Aditya Birla Chemicals
+                    (Thailand) Limited and UK-based Plaswire Ltd have entered a
+                    Memorandum of Understanding (MoU) to jointly establish
+                    sustainable thermoset composite recycling ecosystems across
+                    key global markets.
+                  </p>
+                </div>
+                <ul className="articlesblogs-card-ftr">
+                  <li>
+                    <hr />
+                  </li>
+                  <li>
+                    <img
+                      src={`${process.env.PUBLIC_URL}/images/icons/external-link.svg`}
+                      alt="External Link"
+                    />
+                  </li>
+                </ul>
+              </Link>
+            </div>
+          </div>
+          <div className="col-12 col-sm-12 col-md-12 col-lg-3">
+            <div className="articlesblogs-card">
+              <Link
+                target="_blank"
+                to={`${process.env.PUBLIC_URL}/articles-and-blogs/aditya1.pdf`}
+              >
+                <div className="articlesblogs-card-image">
+                  <img
+                    src={`${process.env.PUBLIC_URL}/images/articles-and-blogs/Balancing performance, scale and circularity to guarantee recyclability in the future.png`}
+                    alt="Recyclable Type IV hydrogen storage pressure vessel for fuel cell electric vehicles"
+                  />
+                </div>
+                <div className="articlesblogs-card-desc">
+                  <h6>June 2026</h6>
+                  <h5>
+                    Balancing performance, scale and circularity to guarantee
+                    recyclability in the future
+                  </h5>
+                  <p>
+                    Of all the companies involved in composite applications,
+                    Aditya Birla's Advanced Materials division is the one that
+                    is most closely engaged with the industry.
+                  </p>
+                </div>
+                <ul className="articlesblogs-card-ftr">
+                  <li>
+                    <hr />
+                  </li>
+                  <li>
+                    <img
+                      src={`${process.env.PUBLIC_URL}/images/icons/external-link.svg`}
+                      alt="External Link"
+                    />
+                  </li>
+                </ul>
+              </Link>
+            </div>
+          </div>
 
           <div className="col-12 col-sm-12 col-md-12 col-lg-3">
             <div className="articlesblogs-card">
@@ -90,14 +127,6 @@ const ArticlesBlogs: React.FC = () => {
             </div>
           </div>
 
-
-
-
-
-
-
-
-
           <div className="col-12 col-sm-12 col-md-12 col-lg-3">
             <div className="articlesblogs-card">
               <Link
@@ -113,14 +142,14 @@ const ArticlesBlogs: React.FC = () => {
                 <div className="articlesblogs-card-desc">
                   <h6>March 2026</h6>
                   <h5>
-                    Leitwind adopts Recyclamine® technology for the new LS20.X
+                    Leitwind adopts RecyclamineÂ® technology for the new LS20.X
                     wind turbine blade, marking a major step toward circular
                     composites
                   </h5>
                   <p>
                     Aditya Birla Advanced Materials is pleased to announce that
                     Leitwind, a leading manufacturer of wind turbine systems,
-                    has selected our Recyclamine® recyclable epoxy system for
+                    has selected our RecyclamineÂ® recyclable epoxy system for
                     the newest generation of its LS20.X wind turbine blade.
                   </p>
                 </div>
@@ -186,7 +215,7 @@ const ArticlesBlogs: React.FC = () => {
             <div className="articlesblogs-card">
               <Link
                 target="_blank"
-                to={`${process.env.PUBLIC_URL}/articles-and-blogs/N┬░164 - september 2025_Recyclable Hydrogen Pressure Vessels.pdf`}
+                to={`${process.env.PUBLIC_URL}/articles-and-blogs/Nâ”¬â–‘164 - september 2025_Recyclable Hydrogen Pressure Vessels.pdf`}
               >
                 <div className="articlesblogs-card-image">
                   <img

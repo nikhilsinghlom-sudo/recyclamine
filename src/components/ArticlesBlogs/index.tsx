@@ -15,7 +15,7 @@ const ArticlesBlogs: React.FC = () => {
               >
                 <div className="articlesblogs-card-image">
                   <img
-                    src={`${process.env.PUBLIC_URL}/images/advance.png`}
+                    src={`${process.env.PUBLIC_URL}/images/advance.jpg`}
                     alt="Advanced Materials, Aditya Birla Group and Plaswire Ltd. sign Memorandum of Understanding"
                   />
                 </div>
